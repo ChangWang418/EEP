@@ -49,8 +49,6 @@ Open `.env` and paste your OpenAI API key like this:
 OPENAI_API_KEY=sk-xxxxx...your-key...
 ```
 
-⚠️ **Never commit your real `.env` file to GitHub or share it publicly.**
-
 ### 4. Run Target Model Script
 
 Each model includes one or more main scripts named with `run_experiment...py`.
