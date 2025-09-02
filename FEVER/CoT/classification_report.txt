@@ -1,0 +1,9 @@
+                 precision    recall  f1-score   support
+
+       SUPPORTS      0.000     0.000     0.000     666.0
+        REFUTES      0.000     0.000     0.000     666.0
+NOT ENOUGH INFO      0.000     0.000     0.000     666.0
+
+      micro avg      0.000     0.000     0.000    1998.0
+      macro avg      0.000     0.000     0.000    1998.0
+   weighted avg      0.000     0.000     0.000    1998.0
