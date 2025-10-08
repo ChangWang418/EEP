@@ -1,0 +1,23 @@
+{
+  "train_csv": "data/train.csv",
+  "val_csv": "data/val.csv",
+  "exp_train": "data/expectations_train.jsonl",
+  "exp_val": "data/expectations_val.jsonl",
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "finetune_encoder": false,
+  "epochs": 5,
+  "lr": 0.001,
+  "margin_m": 0.0,
+  "lambda_reg": 0.0,
+  "output_dir": "C:\\Users\\sakur\\Desktop\\paper\\GitHub\\EEP-CoT-Selfask-Standard-DECOMP\\FEVER\\Supervised\\outputs\\eep_supervised",
+  "seed": 42,
+  "pooling": "max",
+  "beta": 10.0,
+  "topk": 3,
+  "k_pos": 3,
+  "k_neg": 3,
+  "class_weights": null,
+  "init_gamma": 1.0,
+  "freeze_gamma": false,
+  "dump_val_preds": true
+}

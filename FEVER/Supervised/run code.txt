@@ -1,0 +1,11 @@
+1. baseline（max pooling, γ=1.0）
+python train_eep_delta.py --train_csv data/train.csv --val_csv data/val.csv --exp_train data/expectations_train.jsonl --exp_val data/expectations_val.jsonl --epochs 5 --lr 1e-3 --pooling max --k_pos 3 --k_neg 3 --seed 42 --dump_val_preds
+
+2.soft pooling（lse, γ=0.6, 降低 NEI 权重）
+python train_eep_delta.py --train_csv data/train.csv --val_csv data/val.csv --exp_train data/expectations_train.jsonl --exp_val data/expectations_val.jsonl --epochs 5 --lr 1e-3 --pooling lse --beta 15 --init_gamma 0.6 --class_weights "1.2,1.2,0.8" --k_pos 2 --k_neg 2 --seed 42 --dump_val_preds
+
+3. top-k pooling（更稳健）
+python train_eep_delta.py --train_csv data/train.csv --val_csv data/val.csv --exp_train data/expectations_train.jsonl --exp_val data/expectations_val.jsonl --epochs 5 --lr 1e-3 --pooling topk --topk 3 --init_gamma 0.8 --class_weights "1.1,1.1,0.9" --k_pos 2 --k_neg 2 --seed 42 --dump_val_preds
+
+4. 更强 encoder（mpnet-base）
+python train_eep_delta.py --train_csv data/train.csv --val_csv data/val.csv --exp_train data/expectations_train.jsonl --exp_val data/expectations_val.jsonl --epochs 5 --lr 1e-3 --pooling lse --beta 20 --init_gamma 0.6 --class_weights "1.2,1.2,0.8" --k_pos 2 --k_neg 2 --seed 42 --dump_val_preds --model_name sentence-transformers/all-mpnet-base-v2
