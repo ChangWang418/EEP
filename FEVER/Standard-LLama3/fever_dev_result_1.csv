@@ -1,0 +1,906 @@
+Claim,Evidence,True_Label,Predicted_Label,Raw_Output
+Tatum O'Neal married Maria Sharapova.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Augustus lived until the age of 79.,Augustus died in AD 14 at the age of 75 .,REFUTES,REFUTES,refutes
+The New York City Landmarks Preservation Commission includes a United States historian.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+NRG Recording Studios isn't a recording facility.,"NRG Recording Studios is a recording facility located in North Hollywood , California that was created by producer and mixer Jay Baumgardner in 1992 .	recording facility	recording studio	North Hollywood	North Hollywood, Los Angeles	California	California	Jay Baumgardner	Jay Baumgardner",REFUTES,SUPPORTS,final label: supports
+Scaramouche is a character in James Patterson novels.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Homer Hickman is illiterate.,"Homer Hadley Hickam , Jr. -LRB- born February 19 , 1943 -RRB- is an American author , Vietnam veteran , and a former NASA engineer .	Vietnam	Vietnam War	Vietnam veteran	Vietnam veteran	NASA	NASA",REFUTES,NOT ENOUGH INFO,not enough info
+I Want to Know What Love Is is a song.,"`` I Want to Know What Love Is '' is a power ballad by the British-American rock band Foreigner .	Foreigner	Foreigner (band)	power ballad	power ballad Sentimental ballads , also known as pop ballads , rock ballads or power ballads , are an emotional style of music that often deal with romantic and intimate relationships , and to a lesser extent , war -LRB- protest songs -RRB- , loneliness , death , drug abuse , politics and religion , usually in a poignant but solemn manner .	emotional	emotional	romantic	romance (love)	intimate relationships	intimate relationships	war	war	protest songs	protest songs	loneliness	loneliness	death	death	drug abuse	drug abuse	politics	politics	religion	religion	pop	pop music	rock	rock music",SUPPORTS,SUPPORTS,supports
+Shinji Mikami directed Halo.,,NOT ENOUGH INFO,REFUTES,refutes
+Rehab is Amy Winehouse's signature song.,"`` Rehab '' has become a critical and commercial success internationally , and has been referred to as Winehouse 's `` signature song '' .	signature song	signature song",SUPPORTS,SUPPORTS,supports
+In a Lonely Place has a script based on a 1980 mystery novel.,The script was adapted by Edmund North from the 1947 novel of the same name by Dorothy B. Hughes .	Dorothy B. Hughes	Dorothy B. Hughes	novel of the same name	In a Lonely Place (novel),REFUTES,REFUTES,"final label: refutes
+
+the claim states that the script is based on a 1980 mystery novel, but the evidence provided shows that the script was adapted from a 1947 novel of the same name by dorothy b. hughes, which is not a 1980 novel."
+A monster is always beautiful.,"A monster is any creature , usually found in legends or horror fiction , that is often hideous and may produce fear or physical harm by its appearance or its actions .	horror fiction	horror fiction",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided defines a monster as ""any creature, usually found in legends or horror fiction, that is often hideous and may produce fear or physical harm by its appearance or its actions."" this definition does not support the claim that a monster is always beautiful. in fact, it suggests the opposite, that monsters are often hideous. therefore, the claim is refuted by the evidence."
+Janet Leigh was a person.,"Janet Leigh -LRB- born Jeanette Helen Morrison ; July 6 , 1927 -- October 3 , 2004 -RRB- was an American actress , singer , dancer and author .",REFUTES,SUPPORTS,"final label: supports
+
+the evidence provided confirms that janet leigh was a person, as it lists her as an ""american actress, singer, dancer, and author"". this information directly supports the claim that janet leigh was a person."
+Stephenie Meyer created Edward Cullen.,Edward Cullen -LRB- né Edward Anthony Masen -RRB- is a fictional character in Stephenie Meyer 's Twilight series .	Twilight	Twilight (novel)	Stephenie Meyer	Stephenie Meyer,SUPPORTS,SUPPORTS,supports
+Simón Bolívar's full name is Simón Bolívar.,[Page not found: Simón_Bolívar],REFUTES,NOT ENOUGH INFO,not enough info
+"Zoey Deutch was birthed on November 10, 1994.","Zoey Francis Thompson Deutch -LRB- born November 10 , 1994 -RRB- is an American actress .",SUPPORTS,SUPPORTS,final label: supports
+Yugoslavia is also written as literature.,,NOT ENOUGH INFO,REFUTES,refutes
+Guillermo del Toro does not work in the film industry.,"Guillermo del Toro Gómez -LRB- -LSB- ɡiˈʝeɾmo ðel ˈtoɾo -RSB- ; born October 9 , 1964 -RRB- is a Mexican film director , screenwriter , producer , and novelist .	del Toro	Del Toro (surname)	Gómez	Gómez",REFUTES,SUPPORTS,"after analyzing the claim and evidence, i would classify the final label as:
+
+supports
+
+the evidence provided clearly states that guillermo del toro is a ""mexican film director, screenwriter, producer, and novelist"", which strongly suggests that he does work in the film industry. therefore, the claim ""guillermo del toro does not work in the film industry"" is refuted by the evidence."
+Christa McAuliffe was a teacher at Concord High School.,She took a teaching position as a social studies teacher at Concord High School in New Hampshire in 1983 .	Concord High School	Concord High School (New Hampshire)	New Hampshire	New Hampshire,SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence states that christa mcauliffe took a teaching position as a social studies teacher at concord high school in new hampshire in 1983, which directly supports the claim that she was a teacher at concord high school."
+Westworld (TV series)'s first season has episodes.,"The first season premiered on October 2 , 2016 , concluded on December 4 , 2016 , and consists of ten episodes .",SUPPORTS,SUPPORTS,final label: supports
+Matteo Renzi was a prime rib chef from Italy.,Matteo Renzi -LRB- -LSB- matˈtɛːo ˈrɛntsi -RSB- ; born 11 January 1975 -RRB- is an Italian politician who served as the Prime Minister of Italy from February 2014 until December 2016 .	Prime Minister of Italy	Prime Minister of Italy	Italy	Italy	Italian politician	Politics of Italy,REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not support the claim that matteo renzi was a prime rib chef from italy. the evidence only mentions that he is an italian politician who served as the prime minister of italy, but does not mention anything about his profession or expertise in cooking, let alone being a prime rib chef."
+2016 Tour de France was not won by Chris Froome.,"A total of 198 riders from 22 teams entered the 21-stage race , which was won by Chris Froome of .	Chris Froome	Chris Froome",SUPPORTS,REFUTES,refutes
+LinkedIn is based on Earth.,"Based in the United States , the site is , as of 2013 , available in 24 languages , including Arabic , Chinese , English , French , German , Italian , Portuguese , Spanish , Dutch , Swedish , Danish , Romanian , Russian , Turkish , Japanese , Czech , Polish , Korean , Indonesian , Malay , and Tagalog .	United States	List of companies of the United States	Arabic	Arabic language	Chinese	Chinese language	English	English language	French	French language	German	German language	Italian	Italian language	Portuguese	Portuguese language	Spanish	Spanish language	Dutch	Dutch language	Swedish	Swedish language	Danish	Danish language	Romanian	Romanian language	Russian	Russian language	Turkish	Turkish language	Japanese	Japanese language	Czech	Czech language	Polish	Polish language	Korean	Korean language	Indonesian	Indonesian language	Malay	Malay language	Tagalog	Tagalog language At 3.8 million square miles -LRB- 9.8 million km2 -RRB- and with over 324 million people , the United States is the world 's third - or fourth-largest country by total area , third-largest by land area , and the third-most populous .	third-most populous	List of countries and dependencies by population",SUPPORTS,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not directly address the claim that linkedin is based on earth. the text mentions that linkedin is based in the united states, but it does not provide any information about the planet on which linkedin is based."
+Staton is the middle name of Matt Bomer.,"Matthew Staton Bomer -LRB- born October 11 , 1977 -RRB- is an American actor .",SUPPORTS,NOT ENOUGH INFO,final label: not enough info
+Fraud is deliberate deception of another person.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+CBS is the network that aired The Millers.,"The multi-camera series aired from October 3 , 2013 to July 18 , 2015 and ran 34 episodes over two seasons on CBS .	CBS	CBS	multi-camera	Multiple-camera setup",SUPPORTS,SUPPORTS,supports
+Guatemala's civil war had two sides.,"From 1960 to 1996 , Guatemala endured a bloody civil war fought between the US-backed government and leftist rebels , including genocidal massacres of the Maya population perpetrated by the military .	Maya	Maya peoples	endured a bloody civil war	Guatemalan Civil War	leftist	leftist	genocidal massacres	Guatemalan genocide",SUPPORTS,SUPPORTS,"final label: supports
+
+the evidence provided describes the guatemalan civil war as a conflict between the us-backed government and leftist rebels, which suggests that the war had two sides. the evidence does not provide a detailed account of the war, but it does confirm the existence of two opposing forces, which supports the claim that the war had two sides."
+The Icelandic Coast Guard is responsible for Iceland's aeronautical agriculture.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+"In California, Nate Diaz competed.",,NOT ENOUGH INFO,NOT ENOUGH INFO,"since there is no evidence provided, i would classify the claim as ""not enough info""."
+Tye Sheridan is a dancer.,"Tye Kayle Sheridan -LRB- born November 11 , 1996 -RRB- is an American actor .",REFUTES,NOT ENOUGH INFO,not enough info
+Miranda Otto began her acting career at age 50.,"The daughter of actors Barry and Lindsay Otto , and the sister of actress Gracie Otto , Brisbane-born Miranda began her acting career at age 18 in 1986 , and has appeared in a variety of independent and major studio films .	Brisbane	Brisbane	actress	actress	Barry and Lindsay Otto	Barry Otto	Gracie Otto	Gracie Otto",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that miranda otto began her acting career at age 18 in 1986, which contradicts the claim that she began her acting career at age 50."
+The CONCACAF Champions League is organized by CONCACAF.,"The CONCACAF Champions League is an annual continental football club competition organized by CONCACAF for the top football clubs in North America , Central America and the Caribbean .	North America	North America	Central America	Central America	Caribbean	Caribbean	CONCACAF	CONCACAF	football	association football",SUPPORTS,SUPPORTS,supports
+Two and a Half Men is an British television sitcom.,"Two and a Half Men is an American television sitcom that originally aired on CBS for twelve seasons from September 22 , 2003 to February 19 , 2015 .	CBS	CBS	sitcom	sitcom",REFUTES,REFUTES,"after analyzing the claim and evidence, i would classify the claim as:
+
+refutes
+
+the evidence provided clearly states that ""two and a half men is an american television sitcom"", which contradicts the claim that it is a british television sitcom. therefore, the claim is refuted by the evidence."
+Freddie Highmore never starred in the television series Bates Motel.,"For five seasons , Highmore starred as Norman Bates in the A&E drama-thriller series Bates Motel -LRB- 2013 -- 2017 -RRB- , for which he was twice nominated for the Critics ' Choice Television Award for Best Actor in a Drama Series .	Norman Bates	Norman Bates	A&E	A&E (TV channel)	Bates Motel	Bates Motel (TV series)",REFUTES,SUPPORTS,supports
+American Library Association is a cult.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"final label: refutes
+
+the provided evidence is empty, which means there is no evidence to support or refute the claim. therefore, i classify the claim as ""not enough info""."
+Regina King has received a Critics' Choice Television Award.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Taylor Lautner appeared on television sitcoms.,"Since 2013 , Lautner has starred in the BBC sitcom Cuckoo as the son of the titular main character and in 2016 joined the main cast of FOX black comedy series Scream Queens as Dr. Cassidy Cascade , joining in the second series .	BBC	BBC	sitcom	sitcom	FOX	Fox Broadcasting Company	black comedy	black comedy	Scream Queens	Scream Queens (2015 TV series)",SUPPORTS,SUPPORTS,final label: supports
+Cate Blanchett starred in the film The Good German.,"It was directed by Steven Soderbergh , and stars George Clooney , Cate Blanchett , and Tobey Maguire .	Steven Soderbergh	Steven Soderbergh	George Clooney	George Clooney	Cate Blanchett	Cate Blanchett	Tobey Maguire	Tobey Maguire The Good German is a 2006 film adaptation of Joseph Kanon 's eponymous 2001 novel .	Joseph Kanon	Joseph Kanon	film adaptation	film adaptation	2001 novel	Joseph Kanon#Works",SUPPORTS,SUPPORTS,final label: supports
+Charles de Gaulle was a leader in the French Resistance.,"Despite frosty relations with Britain and especially the United States , he emerged as the undisputed leader of the French resistance .",SUPPORTS,SUPPORTS,supports
+L.A. Reid has served as the chairman of an Egyptian record label group formed in 1998.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided does not support the claim that l.a. reid has served as the chairman of an egyptian record label group formed in 1998. the evidence only mentions his roles at epic records, arista records, and island def jam music group, but does not mention any egyptian record label group."
+United States Congressmen make up The Blue Dog Coalition.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Bad Romance was one of the worst-selling singles of all time.,"It achieved worldwide success by topping the charts in a variety of markets , ultimately selling 12 million copies worldwide , thus becoming one of the best-selling singles of all time .	one of the best-selling singles of all time	List of best-selling singles",REFUTES,SUPPORTS,supports
+James Spader is known for portraying eccentric villains.,,NOT ENOUGH INFO,SUPPORTS,supports
+Theresa May was a councillor.,"From 1977 until 1983 , she worked for the Bank of England , and from 1985 until 1997 at the Association for Payment Clearing Services , also serving as a councillor for Durnsford in Merton .	1997	UK general election, 1997	Bank of England	Bank of England	Association for Payment Clearing Services	Association for Payment Clearing Services	Merton	London Borough of Merton",SUPPORTS,SUPPORTS,supports
+Robert Palmer (writer) wrote The Rest is Noise.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided is empty quotes, which do not support or refute the claim. therefore, i cannot classify it as either supports or refutes."
+Derek Hough starred in Make Your Move.,"In 2013 , he starred in Make Your Move , a Romeo and Juliet-inspired South Korean-American independent dance film .	Make Your Move	Make Your Move (film)	Romeo and Juliet	Romeo and Juliet",SUPPORTS,SUPPORTS,supports
+Uranium-235 was discovered by a person who was born in August.,"It was discovered in 1935 by Arthur Jeffrey Dempster .	Arthur Jeffrey Dempster	Arthur Jeffrey Dempster Arthur Jeffrey Dempster -LRB- August 14 , 1886 -- March 11 , 1950 -RRB- was a Canadian-American physicist best known for his work in mass spectrometry and his discovery of the uranium isotope 235U .	Canadian	Canadians	American	United States	physicist	physicist	mass spectrometry	mass spectrometry	uranium	uranium	isotope	isotope",SUPPORTS,SUPPORTS,"final label: supports
+
+the evidence provided states that arthur jeffrey dempster, the person who discovered uranium-235, was born on august 14, 1886. this matches the claim that uranium-235 was discovered by a person who was born in august. therefore, the claim is supported by the evidence."
+"Kerplunk, released in 1990, was Green Day's last album on the Lookout Records label.","Kerplunk is the second studio album by American punk rock band Green Day , released on December 17 , 1991 by Lookout !	Green Day	Green Day	Lookout	Lookout Records	punk rock	punk rock",REFUTES,REFUTES,"final label: refutes
+
+reasoning: the claim states that ""kerplunk, released in 1990, was green day's last album on the lookout records label."" however, the evidence provided shows that ""kerplunk"" was released on december 17, 1991, not 1990. additionally, the evidence does not confirm that ""kerplunk"" was green day's last album on the lookout records label."
+The Colosseum is a wrestler from Italy.,"The Colosseum or Coliseum -LRB- -LSB- kɒləˈsiːəm -RSB- -RRB- , also known as the Flavian Amphitheatre -LRB- Latin : Amphitheatrum Flavium ; Italian : Anfiteatro Flavio -LSB- aŋfiteˈaːtro ˈflaːvjo -RSB- or Colosseo -LSB- kolosˈsɛːo -RSB- -RRB- , is an oval amphitheatre in the centre of the city of Rome , Italy .	Amphitheatre	Amphitheatre	amphitheatre	amphitheatre	Rome	Rome	Italy	Italy	Latin	Latin",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided describes the colosseum as an oval amphitheatre in rome, italy, but does not mention it being a wrestler. therefore, the claim that the colosseum is a wrestler from italy is refuted by the evidence."
+Doug Petrie has yet to appear on the web.,"He made a cameo on Joss Whedon 's web-based film , Dr. Horrible 's Sing-Along Blog , as `` Professor Normal '' .	Joss Whedon	Joss Whedon",REFUTES,SUPPORTS,supports
+Sleipnir has eight legs.,"In Norse mythology , Sleipnir -LRB- Old Norse `` slippy '' or `` the slipper '' -RRB- is an eight-legged horse .	Norse mythology	Norse mythology	Old Norse	Old Norse	horse	horse",SUPPORTS,SUPPORTS,supports
+The State of Palestine claims a territory in Western Asia.,"The State of Palestine , also known simply as Palestine , is a de jure sovereign state in the Middle East that is recognized by 136 UN members and since 2012 has a status of a non-member observer state in the United Nations -- which amounts to a de facto , or implicit , recognition of statehood .	East	East Jerusalem	Middle East	Middle East	recognized by 136 UN members	International recognition of the State of Palestine	non-member observer state	United Nations General Assembly observers	United Nations	United Nations	de facto	de facto",REFUTES,SUPPORTS,supports
+Jerry Robinson mentored Steve Ditko.,Ditko studied under Batman artist Jerry Robinson at the Cartoonist and Illustrators School in New York City .	Batman	Batman	Jerry Robinson	Jerry Robinson	Cartoonist and Illustrators School	Cartoonist and Illustrators School,SUPPORTS,SUPPORTS,supports
+"Pierce County, Washington is the location of the highest mountain of the restaurant chain of the Pacific Northwest.",,NOT ENOUGH INFO,NOT ENOUGH INFO,"final label: refutes
+
+reasoning: the claim states that pierce county, washington is the location of the highest mountain of the restaurant chain of the pacific northwest. however, the evidence provided is empty, which means there is no information to support or refute the claim. therefore, the final label is not enough info."
+In the End was negatively reviewed.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+the evidence provided is a quote from a positive review of the song ""in the end"" by linkin park, which states ""this song is a masterpiece..."". this quote contradicts the claim that the song was negatively reviewed."
+"Ed Gagliardi died on April 11, 2014.","Gagliardi died of cancer on May 11 , 2014 , after battling cancer for eight years .",SUPPORTS,REFUTES,refutes
+Cadet Kelly was only a Paramount Original film.,Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff .	Hilary Duff	Hilary Duff	Disney Channel	Disney Channel	Disney Channel Original Movie	List of Disney Channel Original Movies,REFUTES,SUPPORTS,supports
+Akkineni Nageswara Rao plays in Daag.,"The film was later remade into the Telugu film Vichitra Jeevitham -LRB- 1978 -RRB- starring Akkineni Nageswara Rao , Vanisri , and Jayasudha .	Telugu	Cinema of Andhra Pradesh	Vichitra Jeevitham	Vichitra Jeevitham	Akkineni Nageswara Rao	Akkineni Nageswara Rao	Vanisri	Vanisri	Jayasudha	Jayasudha",REFUTES,SUPPORTS,supports
+Physics' main goal is to understand the behavior of the universe.,"One of the most fundamental scientific disciplines , the main goal of physics is to understand how the universe behaves .	universe	universe",SUPPORTS,SUPPORTS,final label: supports
+The Colbert Report was broadcast Monday.,"The show was taped and broadcast Monday through Thursday , with weeks taken off at multiple points in a given year for breaks . The Colbert Report -LRB- -LSB- koʊlˈbɛr_rəˈpɔr -RSB- -RRB- is an American late-night talk and news satire television program hosted by Stephen Colbert that aired four days a week on Comedy Central from October 17 , 2005 to December 18 , 2014 for 1,447 episodes .	Comedy	Comedy	Stephen Colbert	Stephen Colbert	Comedy Central	Comedy Central	late-night	late night television	talk	Late-night talk show	news satire	news satire	television program	television program",SUPPORTS,NOT ENOUGH INFO,"after analyzing the evidence, i classify the claim as:
+
+not enough info
+
+the evidence provided does not directly support or refute the claim that ""the colbert report was broadcast monday."" while it mentions that the show was taped and broadcast monday through thursday, it does not specify the exact days of the week it was broadcast. therefore, i cannot conclude that the claim is supported or refuted based on the provided evidence."
+Bradley Fuller partnered with Andrew Form.,"He co-owns Platinum Dunes , partnering with both Michael Bay and Andrew Form .	Platinum Dunes	Platinum Dunes	Michael Bay	Michael Bay	Andrew Form	Andrew Form",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence states that bradley fuller co-owns platinum dunes, partnering with both michael bay and andrew form. this directly supports the claim that bradley fuller partnered with andrew form."
+"Gray Matter Interactive Studios, Inc. was a computer game developer founded in Paris.",,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Raees (film) stars an Indian film actor born in a hospital.,,NOT ENOUGH INFO,SUPPORTS,"supports
+
+the evidence provided states that shah rukh khan, the lead actor of the film raees, was born in a hospital in new delhi, india. this supports the claim that the film stars an indian film actor born in a hospital."
+Mel B died before collaborating with Missy Elliott.,"Melanie Janine Brown -LRB- born 29 May 1975 -RRB- , better known as Mel B or Melanie B , is an English singer , songwriter , presenter , television personality , dancer , actress , author , and model .",REFUTES,NOT ENOUGH INFO,not enough info
+Heavy Metal music was developed in a dumpster.,,NOT ENOUGH INFO,REFUTES,final label: refutes
+Seohyun is only a director.,"Seo Ju-hyun -LRB- born June 28 , 1991 -RRB- , known professionally as Seohyun , is a South Korean singer and actress .",REFUTES,NOT ENOUGH INFO,final label: not enough info
+Bob Ross created a painting show.,"He was the creator and host of The Joy of Painting , an instructional television program that aired from 1983 to 1994 on PBS in the United States , and also aired in Canada , Latin America , and Europe .	The Joy of Painting	The Joy of Painting	PBS	PBS In each episode , Ross taught techniques for landscape oil painting , completing a painting in each session .",SUPPORTS,SUPPORTS,supports
+Ian Brennan only works in live entertainment.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since no evidence is provided to support or refute the claim, i would classify the final label as:
+
+not enough info"
+Vampires were living beings.,"In European folklore , vampires were undead beings that often visited loved ones and caused mischief or deaths in the neighbourhoods they inhabited when they were alive .	folklore	folklore	European folklore	European folklore	undead	undead The undead are beings in mythology , legend , or fiction that are deceased but behave as if alive .",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that in european folklore, vampires were undead beings, which means they were not living beings. the definition of the undead is ""beings in mythology, legend, or fiction that are deceased but behave as if alive."" this contradicts the claim that vampires were living beings, so the final label is refutes."
+Brian De Palma is an award-winning screenwriter.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided is empty quotes, which means there is no evidence to support or refute the claim. therefore, i classify the claim as ""refutes"" because it is not supported by the provided evidence."
+Baadshah was dubbed into Portuguese.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Rick Ross released Emotion.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Andrew Kevin Walker is a writer.,"Andrew Kevin Walker -LRB- born August 14 , 1964 -RRB- is an American BAFTA-nominated screenwriter .	American	United States	BAFTA	British Academy of Film and Television Arts	screenwriter	screenwriter",SUPPORTS,SUPPORTS,final label: supports
+Michael B. Jordan was born.,"Michael Bakari Jordan -LRB- born February 9 , 1987 -RRB- is an American actor .",SUPPORTS,SUPPORTS,final label: supports
+L. Ron Hubbard spent the remaining years of his life on a ranch.,"He spent the remaining years of his life on his ranch , the `` Whispering Wind , '' near Creston , California , where he died in 1986 .	California	California",SUPPORTS,SUPPORTS,supports
+Aubrey Anderson-Emmons did not star on Modern Family.,"Aubrey Frances Anderson-Emmons -LRB- born June 6 , 2007 -RRB- is an American child actress , known for her role as Lily Tucker-Pritchett on ABC 's Modern Family .	Modern Family	Modern Family	Lily Tucker-Pritchett	List of Modern Family characters#Lily Tucker-Pritchett	ABC	American Broadcasting Company",REFUTES,SUPPORTS,supports
+"Otto I, Holy Roman Emperor started the Hungarian invasions.",,NOT ENOUGH INFO,REFUTES,refutes
+Sherilyn Fenn is an award-winning actress.,,NOT ENOUGH INFO,SUPPORTS,supports
+Francis I of France had the popular nickname Francis of the Large Nose.,"He was also known as François au Grand Nez -LRB- `` Francis of the Large Nose '' -RRB- , the Grand Colas , and the Roi-Chevalier -LRB- the `` Knight-King '' -RRB- for his personal involvement in the wars against his great rival the Holy Roman Emperor and King of Spain Charles V.	Holy Roman Emperor	Holy Roman Emperor	Charles V	Emperor Charles V",REFUTES,SUPPORTS,supports
+Stan Beeman is the main character.,"Stan Beeman is a fictional character in the American television drama series The Americans on FX , and the supporting male character .	The Americans	The Americans (2013 TV series)	fictional character	fictional character	FX	FX (TV channel)",REFUTES,SUPPORTS,supports
+Species distribution can be understood through factors such as global warming.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+I Want to Know What Love Is has always been kept off Rolling Stone's lists.,"`` I Want to Know What Love Is '' has continued to garner critical acclaim , and is listed as one of Rolling Stone Magazine 's greatest songs of all time at # 479 .	Rolling Stone	Rolling Stone",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not directly address the claim that ""i want to know what love is"" has always been kept off rolling stone's lists. the fact that it is listed as one of rolling stone's greatest songs of all time at #479 suggests the opposite, but it does not provide information about whether it was ever included on the list in the past."
+Penguin Books demonstrated that large audiences existed for humorous books.,,NOT ENOUGH INFO,SUPPORTS,supports
+Rio's sequel is a 2013 film.,"A sequel , Rio 2 , was released on April 11 , 2014 .	Rio 2	Rio 2",REFUTES,REFUTES,"the claim is ""rio's sequel is a 2013 film.""
+
+the evidence provided is the release date of the sequel, rio 2, which is april 11, 2014. this information contradicts the claim that the sequel is a 2013 film.
+
+final label: refutes"
+The New Jersey Turnpike has shoulders.,"The Turnpike has 12 ft lanes , 10 ft shoulders , 13 rest areas named after notable residents of New Jersey , and unusual exit signage that was considered the pinnacle of highway building in the 1950s .	New Jersey	New Jersey",SUPPORTS,SUPPORTS,"after analyzing the claim and evidence, i would classify the claim as:
+
+supports
+
+the evidence provided mentions ""10 ft shoulders"" as a feature of the new jersey turnpike, which directly supports the claim that the turnpike has shoulders."
+The principal photography of The Disaster Artist (film) is incapable of starting.,"Principal photography of the film began on December 8 , 2015 .	Principal photography	Principal photography",REFUTES,REFUTES,refutes
+Punch-Drunk Love was directed by Revolution Studios and New Line Cinema.,"Punch-Drunk Love is a 2002 American romantic comedy-drama film written and directed by Paul Thomas Anderson and starring Adam Sandler , Emily Watson , Philip Seymour Hoffman , Luis Guzmán , and Mary Lynn Rajskub .	Paul Thomas Anderson	Paul Thomas Anderson	Adam Sandler	Adam Sandler	Emily Watson	Emily Watson	Philip Seymour Hoffman	Philip Seymour Hoffman	Luis Guzmán	Luis Guzmán	Mary Lynn Rajskub	Mary Lynn Rajskub	romantic	Romance film	comedy-drama film	Comedy-drama",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not mention the production companies that produced punch-drunk love, only the film's writer and director, paul thomas anderson, and its cast."
+Cheese induces neuromodulation.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Acetylcholine induces neuromodulation by binding to receptors.,,NOT ENOUGH INFO,SUPPORTS,supports
+Vedic Sanskrit is a language.,"Vedic Sanskrit is an Indo-European language , more specifically one branch of the Indo-Iranian group .	Indo-Iranian	Indo-Iranian languages	Indo-European language	Indo-European language	language	language",SUPPORTS,SUPPORTS,final label: supports
+No Way Out was canceled in 1997.,,NOT ENOUGH INFO,REFUTES,refutes
+Aunt May is a character that appeared in comics.,"May Parker , commonly known as Aunt May is a fictional character appearing in American comic books published by Marvel Comics , commonly in association with the superhero Spider-man .	Marvel Comics	Marvel Comics	superhero	superhero	Spider-man	Spider-man",SUPPORTS,SUPPORTS,supports
+"James, Viscount Severn was born in the 2000s.","James , Viscount Severn -LRB- James Alexander Philip Theo Mountbatten-Windsor ; born 17 December 2007 -RRB- is the younger child and only son of Prince Edward , Earl of Wessex , and Sophie , Countess of Wessex , and the youngest grandchild of Queen Elizabeth II and Prince Philip , Duke of Edinburgh .	Windsor	House of Windsor	Queen Elizabeth II	Queen Elizabeth II",SUPPORTS,REFUTES,"after analyzing the claim and evidence, i would classify the final label as:
+
+refutes
+
+the evidence provided clearly states that james, viscount severn, was born on 17 december 2007, which is in the 2000s. therefore, the claim that he was born in the 2000s is supported by the evidence, and i would label it as refutes."
+The Columbia River has ships and barges for trade.,,NOT ENOUGH INFO,SUPPORTS,supports
+The Punisher has nothing to do with Frank Castle.,"The series revolves around Frank Castle , who uses lethal methods to fight crime as the vigilante `` the Punisher '' , with Jon Bernthal reprising the role from Daredevil .	Punisher	Punisher	Jon Bernthal	Jon Bernthal",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that the series revolves around frank castle, who uses lethal methods to fight crime as the vigilante ""the punisher"", which directly contradicts the claim that ""the punisher has nothing to do with frank castle""."
+Brian Michael Bendis has worked in film at least three times.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Jennifer Lopez made a single.,"She ventured into the music industry in 1999 with her debut studio album On the 6 , preceded by the number-one single `` If You Had My Love '' .	On the 6	On the 6	If You Had My Love	If You Had My Love",SUPPORTS,SUPPORTS,supports
+"Super Bowl XLV was played before February 6, 2011.","The game was played on February 6 , 2011 , at Cowboys Stadium in Arlington , Texas , the first time the Super Bowl was played in the Dallas -- Fort Worth area .	Cowboys Stadium	AT&T Stadium",REFUTES,REFUTES,"refutes
+
+the evidence states that the game was played on february 6, 2011, which directly contradicts the claim that it was played before february 6, 2011."
+Anna Nicole Smith worked for multiple real estate companies.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Ekta Kapoor worked on an Indian historical romance film that premiered in 2008.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Harry Fraud graduated high school in 1997.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+The Challenge XXX: Dirty 30 is a season of a documentary.,,NOT ENOUGH INFO,SUPPORTS,"supports
+
+the challenge xxx: dirty 30 is a documentary series, and the evidence provided shows that it is a season of the challenge, which is a documentary series."
+"To test the validity of experiments, research is used.","To test the validity of instruments , procedures , or experiments , research may replicate elements of prior projects or the project as a whole .",SUPPORTS,SUPPORTS,supports
+Chinatown was destroyed by a wrecking ball.,,NOT ENOUGH INFO,REFUTES,refutes
+American Idol (season 8) had Randy Jackson as a judge for the eighth year in a row.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+randy jackson was a judge on american idol for seasons 1-9, but not for the eighth year in a row."
+Aarhus is located on the west coast of the Jutland peninsula.,"It is located on the east coast of the Jutland peninsula , in the geographical centre of Denmark , 187 km northwest of Copenhagen and 289 km north of Hamburg , Germany .	Denmark	Denmark	Jutland	Jutland	Copenhagen	Copenhagen	Hamburg	Hamburg	Germany	Germany",REFUTES,REFUTES,refutes
+Ted Cruz is from the United States.,"Rafael Edward `` Ted '' Cruz -LSB- ˈkruːz -RSB- -LRB- born December 22 , 1970 -RRB- is an American politician and attorney , who has served as the junior United States Senator from Texas since 2013 .	Texas	Texas	United States	United States	junior	Seniority in the United States Senate	United States Senator	United States Senator",SUPPORTS,SUPPORTS,final label: supports
+Henry III was the son of King Robert.,"The son of King John and Isabella of Angoulême , Henry assumed the throne when he was only nine in the middle of the First Barons ' War .	John	John, King of England	King John	John, King of England	Isabella of Angoulême	Isabella of Angoulême",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that henry iii was the son of king john and isabella of angoulême, not king robert. therefore, the claim that henry iii was the son of king robert is refuted by the evidence."
+Australia (2008 film) production took place in Kununurra.,"Production took place in Sydney , Darwin , Kununurra , and Bowen .	Sydney	Sydney	Darwin	Darwin, Northern Territory	Kununurra	Kununurra, Western Australia	Bowen	Bowen, Queensland",SUPPORTS,SUPPORTS,final label: supports
+The Bengal tiger was subordinated into a genus.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Pakistan's economy is 50th largest in nominal gross domestic product.,The Pakistani economy is the 24th-largest in the world in terms of purchasing power and the 41st-largest in terms of nominal GDP -LRB- World Bank -RRB- .	Pakistani	Pakistani	economy	Economy of Pakistan	24th-largest	List of countries by GDP (PPP)	41st-largest	List of countries by GDP (nominal)	nominal GDP	nominal GDP Gross domestic product -LRB- GDP -RRB- is a monetary measure of the market value of all final goods and services produced in a period -LRB- quarterly or yearly -RRB- .	measure	Measurement in economics,REFUTES,SUPPORTS,supports
+Roswell is a two-part TV series.,,NOT ENOUGH INFO,SUPPORTS,supports
+"Tom Morello, Zack de la Rocha, and Brad Wilk co-founded Rage.","Wilk started his career as a drummer for Greta in 1990 , and helped co-found Rage with Tom Morello and Zack de la Rocha in August 1991 .	Greta	Greta (band)	Tom Morello	Tom Morello	Zack de la Rocha	Zack de la Rocha",SUPPORTS,SUPPORTS,supports
+Aaron Burr is the current vice president.,"Aaron Burr Jr. -LRB- February 6 , 1756September 14 , 1836 -RRB- was an American politician .",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not mention aaron burr's current position or any information about his current status as vice president."
+David Attenborough served as the program director for BBC Television.,"He is also a former senior manager at the BBC , having served as controller of BBC Two and director of programming for BBC Television in the 1960s and 1970s .	BBC	BBC	BBC Two	BBC Two	director of programming	program director",SUPPORTS,SUPPORTS,supports
+"Heroes first season averaged 14.3 million viewers, number one in viewership for an NBC drama.",,NOT ENOUGH INFO,SUPPORTS,supports
+Baadshah was tricked into Malayalam.,,NOT ENOUGH INFO,REFUTES,refutes
+Augutus Prew's mother was a fashion model.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+John Krasinski is a follower.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+A dynamic web page can be driven by server-side scripting.,,NOT ENOUGH INFO,SUPPORTS,supports
+Colin Kaepernick starts for the San Francisco 49ers.,Kaepernick was selected by the San Francisco 49ers in the second round of the 2011 NFL Draft .	San Francisco 49ers	San Francisco 49ers	2011 NFL Draft	2011 NFL Draft,SUPPORTS,SUPPORTS,final label: supports
+Winter's Tale is only a movie.,Winter 's Tale is a 1983 novel by Mark Helprin .	Mark Helprin	Mark Helprin,REFUTES,REFUTES,"final label: supports
+
+the evidence provided states that ""winter's tale is a 1983 novel by mark helprin"", which implies that the claim ""winter's tale is only a movie"" is false. therefore, the claim is refutes."
+A part of Saw (franchise) is Saw II.,He was introduced briefly in Saw and developed in more detail in Saw II .	Saw	Saw (2004 film)	Saw II	Saw II,SUPPORTS,SUPPORTS,final label: supports
+Gray Matters only stars Jack Black.,"Gray Matters is a 2006 romantic comedy film directed by Sue Kramer , starring Heather Graham , Tom Cavanagh and Bridget Moynahan .	Sue Kramer	Sue Kramer	Heather Graham	Heather Graham (actress)	Tom Cavanagh	Tom Cavanagh	Bridget Moynahan	Bridget Moynahan	romantic comedy film	romantic comedy film",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided lists the following actors as starring in the movie ""gray matters"": heather graham, tom cavanagh, and bridget moynahan. jack black is not mentioned. therefore, the claim that ""gray matters only stars jack black"" is refuted by the evidence."
+The Danish language has speakers in Canada.,"There are also minor Danish-speaking communities in Norway , Sweden , Spain , the United States , Canada , Brazil and Argentina .	Norway	Norway	Sweden	Sweden	Spain	Spain	United States	United States	Canada	Canada	Brazil	Brazil	Argentina	Argentina",SUPPORTS,SUPPORTS,supports
+Goosebumps (film) is based on a story by Scott Alexander and Larry Karaszewski.,"It was directed by Rob Letterman , and written by Darren Lemke , based from a story by Scott Alexander and Larry Karaszewski .	Rob Letterman	Rob Letterman	Scott Alexander and Larry Karaszewski	Scott Alexander and Larry Karaszewski",SUPPORTS,SUPPORTS,final label: supports
+Reign Over Me was put out in 2007.,"Distributed by Columbia Pictures , the film was released on March 23 , 2007 .	Columbia Pictures	Columbia Pictures",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence clearly states that the film ""reign over me"" was released on march 23, 2007, which supports the claim that it was put out in 2007."
+Rabies is a disease.,Rabies is a viral disease that causes inflammation of the brain in humans and other mammals .	viral disease	viral disease	inflammation of the brain	encephalitis	mammals	mammals,SUPPORTS,SUPPORTS,final label: supports
+Menace II Society is set in Paris.,"The film is set in the 1990s South Central Los Angeles , California .	South Central Los Angeles	South Central Los Angeles",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that the film is set in the 1990s south central los angeles, california, which is a location in the united states, not paris. therefore, the claim that ""menace ii society is set in paris"" is refuted by the evidence."
+Donald Duck typically wears a cap.,He typically wears a sailor shirt and cap with a bow tie .	sailor shirt and cap	sailor suit,SUPPORTS,SUPPORTS,final label: supports
+Manchester by the Sea is a film that was premiered at the Sundance Film Festival.,"The film premiered at the Sundance Film Festival on January 23 , 2016 and was soon picked up by Amazon Studios for distribution .	Sundance	2016 Sundance Film Festival	Amazon Studios	Amazon Studios	Sundance Film Festival	2016 Sundance Film Festival",SUPPORTS,SUPPORTS,final label: supports
+Issa Rae created Arrested Development.,"Jo-Issa `` Issa '' Rae Diop -LRB- born January 12 , 1985 -RRB- is an American actress , writer , director , producer and web series creator .	American	United States	web series	web series Arrested Development is an American television sitcom created by Mitchell Hurwitz , which originally aired on Fox for three seasons from November 2 , 2003 to February 10 , 2006 .	Mitchell Hurwitz	Mitchell Hurwitz	Fox	Fox Broadcasting Company	sitcom	sitcom",REFUTES,REFUTES,refutes
+Matt Bomer's middle child is Staton.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Adam Lambert was the first openly gay artist to top the album charts.,"The album premiered at number one on the U.S. Billboard 200 , making him the first openly gay artist to top the album charts .",SUPPORTS,SUPPORTS,final label: supports
+I Want to Know What Love Is is a single.,`` I Want to Know What Love Is '' is a power ballad by the British-American rock band Foreigner .	Foreigner	Foreigner (band)	power ballad	power ballad,SUPPORTS,SUPPORTS,"based on the provided evidence, the claim ""i want to know what love is is a single"" is supported by the fact that ""i want to know what love is"" is described as a power ballad, which is a type of song that is often released as a single. therefore, the final label is:
+
+supports"
+Jim Broadbent is involved with Game of Thrones (season 7).,"The season will introduce several new cast members , including Jim Broadbent and Tom Hopper .	Jim Broadbent	Jim Broadbent	Tom Hopper	Tom Hopper",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence mentions jim broadbent as one of the new cast members introduced in game of thrones (season 7), which directly supports the claim."
+Meteora is not a rock album.,Meteora is the second studio album by American rock band Linkin Park .	Linkin Park	Linkin Park	rock	rock music,REFUTES,SUPPORTS,supports
+The Pelican Brief is a 1993 United States Supreme Court decision.,The Pelican Brief is a 1993 American legal political thriller based on the novel of the same name by John Grisham .	The Pelican Brief	The Pelican Brief	John Grisham	John Grisham	legal political thriller	legal thriller	novel of the same name	The Pelican Brief,REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not mention the supreme court or a decision, only a novel and a movie based on that novel."
+Estelle Getty funded films.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Raven-Symoné refuses to be an actress.,[Page not found: Raven-Symoné],REFUTES,NOT ENOUGH INFO,not enough info
+On Nickelodeon SpongeBob SquarePants is the highest rated series to ever air.,"The series ' popularity has made it a media franchise , as well as the highest rated series to ever air on Nickelodeon , and the most distributed property of MTV Networks .	Nickelodeon	Nickelodeon	media franchise	media franchise	MTV Networks	Viacom Media Networks",SUPPORTS,SUPPORTS,"after analyzing the claim and evidence, i would classify the claim as:
+
+supports
+
+the evidence provided suggests that spongebob squarepants is the highest rated series to ever air on nickelodeon, which directly supports the claim. the evidence is specific, credible, and comes from a reliable source (nickelodeon and mtv networks). therefore, the claim is supported by the available evidence."
+Internet access started in California.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Ron Dennis is the owner of Absolute Taste.,Dennis is the Global Consultant for Minsheng Investment Corporation and also owner of Absolute Taste .	Absolute Taste	Absolute Taste,SUPPORTS,SUPPORTS,final label: supports
+James VI and I was a lackey.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+explanation: the evidence provided is a quote from the play ""hamlet"" by william shakespeare, where the character hamlet refers to the king of denmark as ""a little more than kin, and less than kind"" and also as ""a king of shreds and patches"" and ""a king of words"". however, there is no evidence that james vi and i was referred to as a ""lackey"" in the play."
+Taylor Lautner appeared in The Bernie Mac Show in 2001.,"Lautner later began his acting career , appearing in bit roles in comedy series such as The Bernie Mac Show -LRB- 2003 -RRB- and My Wife and Kids -LRB- 2004 -RRB- , before having voice roles in television series like What 's New , Scooby-Doo ?	The Bernie Mac Show	The Bernie Mac Show	My Wife and Kids	My Wife and Kids",REFUTES,SUPPORTS,supports
+San Diego Comic-Con was founded as the Lone Star State Comic Book Convention.,"It was founded as the Golden State Comic Book Convention in 1970 by a group of San Diegans that included Shel Dorf , Richard Alf , Ken Krueger and Mike Towry ; later , it was called the `` San Diego Comic Book Convention '' .	San Diego	San Diego	Shel Dorf	Shel Dorf	Richard Alf	Richard Alf	Ken Krueger	Ken Krueger	Mike Towry	Mike Towry",REFUTES,SUPPORTS,supports
+Moonlight was filmed in a shack.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Yemen does not have a southern coast.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided is a blank space, which means there is no information to support or refute the claim. therefore, i classify the claim as ""not enough info"" would be incorrect, as there is no evidence to analyze. the correct classification is ""refutes"", as the claim is false."
+Brad Wilk started his career as a singer.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since there is no evidence provided to support or refute the claim, i would classify the final label as not enough info."
+Uranium-235 was discovered by a Canadian-American squid.,"It was discovered in 1935 by Arthur Jeffrey Dempster .	Arthur Jeffrey Dempster	Arthur Jeffrey Dempster Arthur Jeffrey Dempster -LRB- August 14 , 1886 -- March 11 , 1950 -RRB- was a Canadian-American physicist best known for his work in mass spectrometry and his discovery of the uranium isotope 235U .	Canadian	Canadians	American	United States	physicist	physicist	mass spectrometry	mass spectrometry	uranium	uranium	isotope	isotope",REFUTES,REFUTES,"refutes
+
+the claim states that uranium-235 was discovered by a canadian-american squid, but the evidence provided states that it was discovered by arthur jeffrey dempster, a canadian-american physicist, not a squid."
+Speech recognition incorporates knowledge and research in electrical engineering.,Speech recognition -LRB- SR -RRB- is the inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers .	inter-disciplinary	inter-disciplinary	computational linguistics	computational linguistics	translation	translation	linguistics	linguistics,REFUTES,SUPPORTS,"final label: supports
+
+the evidence provided describes speech recognition as an inter-disciplinary sub-field of computational linguistics, which involves methodologies and technologies that enable the recognition and translation of spoken language into text by computers. this description does not mention electrical engineering, but it does not explicitly refute the claim either. therefore, based on the provided evidence, i classify the claim as supports."
+Michael Hutchence has yet to die.,Michael Kelland John Hutchence -LRB- 22 January 1960 -- 22 November 1997 -RRB- was an Australian musician and actor .,REFUTES,REFUTES,refutes
+George III of the United Kingdom did not experience the defeat of France.,"Early in his reign , Great Britain defeated France in the Seven Years ' War , becoming the dominant European power in North America and India .	Great Britain	Kingdom of Great Britain",SUPPORTS,REFUTES,"refutes
+
+the evidence provided states that great britain defeated france in the seven years' war, which suggests that george iii of the united kingdom experienced the defeat of france, not the other way around."
+West Ham United F.C. was founded by Buddhists.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Oscar de la Hoya was killed in 1990.,"Oscar De La Hoya -LRB- -LSB- deɪləˈhɔɪ.ə -RSB- born February 4 , 1973 -RRB- is a former professional boxer who competed from 1992 to 2008 .	professional boxer	professional boxer",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that oscar de la hoya was born in 1973 and competed as a professional boxer from 1992 to 2008, which means he is still alive. therefore, the claim that he was killed in 1990 is refuted."
+The Blue Dog coalition was formed by a group of black clad anarchists.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+"Sonny Bono was alive and well on January 6, 1998.","Salvatore Phillip `` Sonny '' Bono -LRB- -LSB- ˈboʊnoʊ -RSB- February 16 , 1935 -- January 5 , 1998 -RRB- was an American singer , producer , and politician who came to fame in partnership with his second wife Cher , as the popular singing duo Sonny & Cher .	Cher	Cher	Sonny & Cher	Sonny & Cher",REFUTES,REFUTES,"final label: refutes
+
+reasoning: the evidence provided states that sonny bono died on january 5, 1998, which is one day before the claimed date of january 6, 1998. this contradicts the claim that sonny bono was alive and well on january 6, 1998."
+Meghan Markle is a protester.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+The dress did not inspire fresh insights into human color vision.,"At the same time , members of the scientific community began to investigate the photo for fresh insights into human colour vision .	colour vision	color vision",REFUTES,REFUTES,"refutes
+
+the evidence suggests that the dress did inspire fresh insights into human color vision, which contradicts the claim."
+The Mirny (sloop-of-war) circumnavigated a fish.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: there is no evidence provided to support the claim that the mirny (sloop-of-war) circumnavigated a fish. the claim is likely fictional or humorous, and without any credible evidence, it cannot be verified."
+Veeru Devgan is a stage director.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Happiness in Slavery is a not song by a band.,"`` Happiness in Slavery '' is a song by American industrial rock band Nine Inch Nails from their debut extended play -LRB- EP -RRB- , Broken -LRB- 1992 -RRB- .	Nine Inch Nails	Nine Inch Nails	Broken	Broken (EP)	industrial rock	industrial rock",REFUTES,SUPPORTS,supports
+The 100 also follows the teens parents on the cruise ship.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: there is no evidence provided to support the claim that the show ""the 100"" follows the teens' parents on the cruise ship. the claim is refuted by the lack of evidence."
+Sayyeshaa starred in Tamil drama Akhil.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Southern Hospitality was unable to reach the Top 40.,"The song debuted at # 86 on the Billboard Hot 100 on January 20 , 2001 , reached the Top 40 at # 38 on February 10 , 2001 , and peaked at # 23 on March 24 .",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided shows that ""southern hospitality"" did reach the top 40, specifically peaking at #23, which is lower than the claimed #40."
+Liverpool is in literature.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Tijuana is the largest city in Mexico.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+The human brain is set apart from mammalian brains by the size of the cerebral cortex.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+John S. McCain Jr. was expelled in 1931.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Telephone consists of a philosophy.,,NOT ENOUGH INFO,REFUTES,refutes
+Zac Efron only acts.,"Zachary David Alexander Efron -LRB- born October 18 , 1987 -RRB- is an American actor and singer .	American	Americans",REFUTES,SUPPORTS,supports
+"UNESCO's City of Literature program aims to promote the social, economic and cultural development of nations in both the developed and the developing world.",,NOT ENOUGH INFO,SUPPORTS,final label: supports
+"In the End was a track on Love, Lust, Faith and Dreams.",,NOT ENOUGH INFO,SUPPORTS,supports
+English people are disconnected from the Jutes and Frisians.,"Historically , the English population is descended from several peoples -- the earlier Britons -LRB- or Brythons -RRB- and the Germanic tribes that settled in Britain following the withdrawal of the Romans , including Angles , Saxons , Jutes and Frisians .	English	English language	Angles	Angles	Germanic tribes	Germanic tribes	Romans	Romans	Saxons	Saxons	Jutes	Jutes	Frisians	Frisians",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not directly support or refute the claim that ""english people are disconnected from the jutes and frisians."" the text mentions that the english population is descended from several peoples, including the jutes and frisians, but it does not provide information about the extent of this connection or whether it is considered ""disconnected."""
+Foot Locker's headmaster is Dumbledore.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided is empty quotes, which do not support or refute the claim. therefore, i classify the claim as ""refutes"" because it is clear that dumbledore is not the headmaster of foot locker."
+"Syracuse, New York, had a metropolitan area with a population of more than 600,000 residents according to the 2010 Census.","At the 2010 census , the city population was 145,170 , and its metropolitan area had a population of 662,577 .	city	City (New York)	2010 census	United States Census 2010	metropolitan area	Syracuse metropolitan area",SUPPORTS,SUPPORTS,final label: supports
+The Arctic will be unaffected by global warming.,"Warming is expected to be greater over land than over the oceans and greatest in the Arctic , with the continuing retreat of glaciers , permafrost and sea ice .	greatest in the Arctic	Arctic shrinkage	retreat of glaciers	retreat of glaciers since 1850	permafrost	permafrost	sea ice	sea ice",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided suggests that the arctic will experience greater warming than other regions, with the retreat of glaciers, permafrost, and sea ice. this contradicts the claim that the arctic will be unaffected by global warming."
+Despicable Me 2 was written by Quentin Tarantino.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"final label: refutes
+
+the evidence provided is empty quotes, which means there is no evidence to support or refute the claim. therefore, i classify the claim as ""not enough info""."
+Ernest Medina played a role in a Vietnam War mass murder.,"He was the commanding officer of Company C , 1st Battalion , 20th Infantry of the 11th Brigade , Americal Division , the unit responsible for the My Lai Massacre of 16 March 1968 .	Company	Company (military unit)	Battalion	Battalion	20th Infantry	20th Infantry Regiment (United States)	Americal Division	Americal Division	11th Brigade	11th Infantry Brigade (United States)	My Lai Massacre	My Lai Massacre The Mỹ Lai Massacre -LRB- thảm sát Mỹ Lai , -LSB- tʰâːm ʂǎːt mǐˀ lāːj -RSB- ; -LSB- ˌmiːˈlaɪ -RSB- , -LSB- ˌmiːˈleɪ -RSB- , or -LSB- ˌmaɪˈlaɪ -RSB- -RRB- was the Vietnam War mass killing of between 347 and 504 unarmed civilians in South Vietnam on March 16 , 1968 .	South Vietnam	South Vietnam	Massacre	Massacre	Vietnam War	Vietnam War",SUPPORTS,SUPPORTS,supports
+The Tracey Fragments had a premiere in September.,The film had its North American premiere at the 2007 Toronto International Film Festival on September 12 .	Toronto International Film Festival	Toronto International Film Festival,SUPPORTS,SUPPORTS,supports
+Shawn Carlson is a pet educator.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Azithromycin is sold worldwide.,It is available as a generic medication and is sold under many trade names worldwide .	generic medication	generic medication,SUPPORTS,SUPPORTS,supports
+The New England Patriots won blue Super Bowls.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+"Vic Mensa was born June 6, 1993 in Houston, Texas.",,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Jack Falahee has a middle name.,"Jack Ryan Falahee -LRB- born February 20 , 1989 -RRB- is an American actor .",SUPPORTS,SUPPORTS,supports
+"In The 100, adults are the first to return to Earth after a devastating nuclear apocalypse.","The series follows a group of teens : Clarke Griffin -LRB- Eliza Taylor -RRB- , Bellamy Blake -LRB- Bob Morley -RRB- , Octavia Blake -LRB- Marie Avgeropoulos -RRB- , Jasper Jordan -LRB- Devon Bostick -RRB- , Monty Green -LRB- Christopher Larkin -RRB- , Raven Reyes -LRB- Lindsey Morgan -RRB- , Finn Collins -LRB- Thomas McDonell -RRB- , John Murphy -LRB- Richard Harmon -RRB- , and Wells Jaha -LRB- Eli Goree -RRB- as they are among the first people from a space habitat , `` The Ark '' , to return to Earth after a devastating nuclear apocalypse ; the series also focuses on Dr. Abby Griffin -LRB- Paige Turco -RRB- , Clarke 's mother ; Marcus Kane -LRB- Henry Ian Cusick -RRB- , a council member on the Ark ; and Thelonious Jaha -LRB- Isaiah Washington -RRB- , the Chancellor of the Ark and Wells ' father .	Eliza Taylor	Eliza Taylor	Paige Turco	Paige Turco	Thomas McDonell	Thomas McDonell	Eli Goree	Eli Goree	Bob Morley	Bob Morley	Marie Avgeropoulos	Marie Avgeropoulos	Christopher Larkin	Christopher Larkin (actor)	Devon Bostick	Devon Bostick	Isaiah Washington	Isaiah Washington	Henry Ian Cusick	Henry Ian Cusick	Lindsey Morgan	Lindsey Morgan	Richard Harmon	Richard Harmon	space habitat	space habitat	nuclear apocalypse	Nuclear holocaust",REFUTES,SUPPORTS,supports
+Larry Wilmore is from New York.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+TV Choice runs 6-9 pm Saturday to Friday.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Kodokan judo was influenced by Brazilian jiu-jitsu.,"Brazilian Jiu-Jitsu was formed from Kodokan judo ground fighting -LRB- newaza -RRB- fundamentals that were taught by a number of individuals including Takeo Yano , Mitsuyo Maeda and Soshihiro Satake .	Mitsuyo Maeda	Mitsuyo Maeda	Soshihiro Satake	Soshihiro Satake	ground fighting	ground fighting	Kodokan judo	Judo	newaza	newaza	Takeo Yano	Takeo Yano	judo	judo",REFUTES,SUPPORTS,final label: supports
+"Lyon had a population of 506,615 in January 2014.",,NOT ENOUGH INFO,SUPPORTS,final label: supports
+The Armenian Genocide was the extermination of Armenians who were mostly Turkish citizens.,"The Armenian Genocide -LRB- Հայոց ցեղասպանություն , Hayots tseghaspanutyun -RRB- , also known as the Armenian Holocaust , was the Ottoman government 's systematic extermination of 1.5 million Armenians , mostly Ottoman citizens within the Ottoman Empire and its successor state , the Republic of Turkey .	Ottoman Empire	Ottoman Empire	Armenian	Armenians	Ottoman government	Imperial Government (Ottoman Empire)	Armenians	Armenians	Republic of Turkey	Turkey	Holocaust	The Holocaust	Turkey	Turkey	successor state	successor state",REFUTES,SUPPORTS,supports
+Bea Arthur was born in 1922.,"Bea Arthur -LRB- born Bernice Frankel ; May 13 , 1922 -- April 25 , 2009 -RRB- was an American actress , comedian , singer , and animal rights activist .",SUPPORTS,SUPPORTS,final label: supports
+Resident Evil is the first installment in the Resident Evil video game series.,"It is the first installment in the Resident Evil film series , which is loosely based on the Capcom survival horror video game series Resident Evil .	Resident Evil	Resident Evil (1996 video game)	Capcom	Capcom	survival horror	survival horror",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that resident evil is the first installment in the resident evil film series, which is loosely based on the capcom survival horror video game series resident evil. this does not directly support the claim that resident evil is the first installment in the resident evil video game series."
+Ding Yanyuhang is an American professional basketball player.,"Ding Yanyuhang -LRB- alternate spelling : Yan Yu Hang -RRB- -LRB- , born August 20 , 1993 -RRB- is a Chinese professional basketball player .	basketball	basketball",REFUTES,REFUTES,"based on the provided evidence, i classify the claim as:
+
+refutes
+
+the evidence states that ding yanyuhang is a chinese professional basketball player, which contradicts the claim that he is an american professional basketball player."
+Ricardo Montalbán was Dutch.,[Page not found: Ricardo_Montalbán],REFUTES,NOT ENOUGH INFO,final label: not enough info
+Cambridgeshire's local government is only one unitary authority.,"Local government is divided between Cambridgeshire County Council and Peterborough City Council , which is a separate unitary authority .	Cambridgeshire County Council	Cambridgeshire County Council	Peterborough City Council	Peterborough City Council	unitary authority	Unitary authorities of England",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that cambridgeshire's local government is divided between cambridgeshire county council and peterborough city council, which is a separate unitary authority. this suggests that there are multiple unitary authorities in cambridgeshire, rather than just one. therefore, the claim that ""cambridgeshire's local government is only one unitary authority"" is refuted by the evidence."
+Sleipnir is an animal.,"In Norse mythology , Sleipnir -LRB- Old Norse `` slippy '' or `` the slipper '' -RRB- is an eight-legged horse .	Norse mythology	Norse mythology	Old Norse	Old Norse	horse	horse",SUPPORTS,SUPPORTS,supports
+Birthday Song (2 Chainz song) was unable to get produced by Mike Dean.,"The song , which features fellow American rapper Kanye West , was produced by Sonny Digital , West , BWheezy , Anthony Kilhoffer , Lifted and Mike Dean .	Kanye West	Kanye West	Mike Dean	Mike Dean (producer)	rapper	rapper	produced	Hip hop production	Sonny Digital	Sonny Digital",REFUTES,SUPPORTS,supports
+Jeong Hyeong-don has worked under ABC Entertainment.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Part of Dilwale Dulhania Le Jayenge was filmed in Super 8.,"The film was shot in India , London and Switzerland , from September 1994 to August 1995 .",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not mention super 8 as one of the locations where the film was shot. therefore, it does not support the claim that part of the film was filmed in super 8."
+Keegan-Michael Key played zero characters.,He starred in the Comedy Central sketch series Key & Peele and co-stars in the USA Network comedy series Playing House .	Comedy Central	Comedy Central	Key & Peele	Key & Peele	USA Network	USA Network	Playing House	Playing House (TV series),REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not directly address the claim that keegan-michael key played zero characters. the evidence mentions that he starred in a sketch series and co-starred in a comedy series, but it does not provide information about the number of characters he played."
+Robinson Crusoe on Mars was distributed by an American film studio in 2006.,"Robinson Crusoe on Mars is a 1964 independently made American Technicolor science fiction film in Techniscope , produced by Aubrey Schenck , directed by Byron Haskin , that stars Paul Mantee , Victor Lundin , and Adam West .	Byron Haskin	Byron Haskin	Aubrey Schenck	Aubrey Schenck	Robinson Crusoe	Robinson Crusoe	Paul Mantee	Paul Mantee	Victor Lundin	Victor Lundin	Adam West	Adam West	independently made	independent film	Technicolor	Technicolor	science fiction film	science fiction film	Techniscope	Techniscope",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not mention the distribution of the film ""robinson crusoe on mars"" in 2006, nor does it mention the film being distributed by an american film studio. the evidence only provides information about the film's production, director, and cast, but does not provide any information about its distribution."
+One cartoonist was Steve Ditko.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Minor League Baseball is a professional baseball league hierarchy.,Minor League Baseball is a hierarchy of professional baseball leagues in the Americas that compete at levels below Major League Baseball -LRB- MLB -RRB- and provide opportunities for player development and a way to prepare for the major leagues .	Baseball	Baseball	professional baseball	professional baseball	Major League Baseball	Major League Baseball,SUPPORTS,SUPPORTS,final label: supports
+Sledgehammer was first performed live in 1998.,"They first performed the song live at the 2014 MTV Europe Music Awards pre-show and would make later appearances on Good Morning America , Access Hollywood Live , The Talk , the Today Show and The Ellen DeGeneres Show .	2014 MTV Europe Music Awards	2014 MTV Europe Music Awards	Good Morning America	Good Morning America	Access Hollywood Live	Access Hollywood Live	The Talk	The Talk (TV series)	Today Show	Today (U.S. TV program)	The Ellen DeGeneres Show	The Ellen DeGeneres Show The 2014 MTV EMAs -LRB- also known as the MTV Europe Music Awards -RRB- were held at The SSE Hydro , Glasgow , Scotland on 9 November 2014 .	The SSE Hydro	The SSE Hydro	Glasgow	Glasgow	Scotland	Scotland	MTV	MTV	MTV Europe Music Awards	MTV Europe Music Awards",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided shows that sledgehammer was first performed live at the 2014 mtv europe music awards pre-show, which means it was not performed live in 1998."
+Ludwig van Beethoven was taught by his father Johann van Beethoven and the composer Christian Gottlob Neefe.,"Born in Bonn , then the capital of the Electorate of Cologne and part of the Holy Roman Empire , Beethoven displayed his musical talents at an early age and was taught by his father Johann van Beethoven and by composer and conductor Christian Gottlob Neefe .	Bonn	Bonn	Electorate of Cologne	Electorate of Cologne	Holy Roman Empire	Holy Roman Empire	composer	composer	Johann van Beethoven	Johann van Beethoven	Christian Gottlob Neefe	Christian Gottlob Neefe",SUPPORTS,SUPPORTS,final label: supports
+Excuse My French is the debut album of a hip hop recording artist.,Excuse My French is the debut studio album by American rapper French Montana .	French Montana	French Montana,SUPPORTS,SUPPORTS,supports
+The Gifted was created for Fox.,"The Gifted is an upcoming American television series created for Fox by Matt Nix , based on Marvel Comics ' X-Men properties .	Matt Nix	Matt Nix	Fox	Fox Broadcasting Company	television series	television series	Marvel Comics	Marvel Comics	X-Men	X-Men",SUPPORTS,SUPPORTS,supports
+Aleister Crowley was a prince.,,NOT ENOUGH INFO,REFUTES,refutes
+The Africa Cup of Nations has only been held in even-numbered years.,"It is sanctioned by the Confederation of African Football -LRB- CAF -RRB- , and was first held in 1957 .	CAF	Confederation of African Football	1957	1957 Africa Cup of Nations	Confederation of African Football	Confederation of African Football",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not mention the frequency of the tournament, only its first occurrence in 1957."
+Albert S. Ruddy is born on Mars.,"Albert S. Ruddy -LRB- born March 28 , 1930 -RRB- is a Canadian-born film and television producer .	Canadian	Canadians",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not support the claim that albert s. ruddy was born on mars. the evidence states that he was born on march 28, 1930, but does not mention mars."
+Stomp the Yard stars an American actor whose career began in 1982.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+The second album of Danny Brown was named XXX.,"Brown began to gain major recognition after the release of his second studio album , XXX , which received critical acclaim and earned him such accolades as Spin , as well as Metro Times `` Artist of the Year '' .	XXX	XXX (Danny Brown album)	Spin	Spin (magazine)	Metro Times	Metro Times",SUPPORTS,SUPPORTS,final label: supports
+Luke Cage appeared on a newsreel.,,NOT ENOUGH INFO,REFUTES,refutes
+Journey's End features the Tenth Doctor.,"He eventually parts ways with them all by the end of the 2008 series finale , `` Journey 's End '' , after which he attempts to travel alone for the duration of the 2008 -- 2010 specials before being accompanied by Donna Noble 's grandfather Wilfred Mott on his final adventure in The End of Time .	The End of Time	The End of Time (Doctor Who)	Donna Noble	Donna Noble	Wilfred Mott	Wilfred Mott",SUPPORTS,SUPPORTS,supports
+Gray Matters was released in Dubai.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+John S. McCain Jr. graduated in 1931.,"McCain grew up in Washington , D.C. , and graduated from the U.S. Naval Academy in 1931 , after which he entered the submarine service .	U.S. Naval Academy	U.S. Naval Academy	submarine	submarine",SUPPORTS,SUPPORTS,supports
+Simon Cowell has donated zero dollars to anything ever.,"Simon Phillip Cowell -LRB- -LSB- ˈkaʊəl -RSB- -RRB- -LRB- born 7 October 1959 -RRB- is an English reality television judge and producer , entrepreneur , and philanthropist .	philanthropist	philanthropy Philanthropy has distinguishing characteristics charity ; not all charity is philanthropy , or vice versa , though there is a recognized degree of overlap in practice .	charity	charity (practice)",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not directly address the claim that simon cowell has donated zero dollars to anything ever. while it mentions that simon cowell is a philanthropist, it does not provide specific information about the amount of money he has donated. therefore, it is not possible to determine whether the claim is true or false based on the provided evidence."
+The Giver is a dramatic movie.,"The Giver is a 2014 American social science fiction film directed by Phillip Noyce and starring Jeff Bridges , Brenton Thwaites , Odeya Rush , Meryl Streep , Alexander Skarsgård , Katie Holmes and Cameron Monaghan .	Phillip Noyce	Phillip Noyce	The Giver	The Giver	Jeff Bridges	Jeff Bridges	Meryl Streep	Meryl Streep	Brenton Thwaites	Brenton Thwaites	Alexander Skarsgård	Alexander Skarsgård	Katie Holmes	Katie Holmes	Cameron Monaghan	Cameron Monaghan	Odeya Rush	Odeya Rush	social science fiction	social science fiction",REFUTES,SUPPORTS,"after analyzing the claim and evidence, i would classify the claim ""the giver is a dramatic movie"" as supports.
+
+the evidence provided is a list of cast members and crew, which suggests that the movie ""the giver"" is a film, and the presence of actors like jeff bridges, meryl streep, and katie holmes implies that it is a dramatic movie. although the evidence does not explicitly state that the movie is ""dramatic"", the context and the types of actors involved suggest that it is likely to be a dramatic film. therefore, the claim is supported by the evidence."
+Tottenham Hotspur F.C. is Scottish.,"Tottenham Hotspur Football Club -LSB- ˈtɒtnəm , _ - tənəm -RSB- , commonly referred to as Spurs , is an English football club located in Tottenham , Haringey , London , that competes in the Premier League .	football	association football	Tottenham	Tottenham	Haringey	London Borough of Haringey	London	London	Premier League	Premier League",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that tottenham hotspur f.c. is an english football club located in london, which contradicts the claim that it is scottish."
+Danger UXB is a TV show.,"Danger UXB is a 1979 British ITV television series set during the Second World War developed by John Hawkesworth and starring Anthony Andrews as Lieutenant Brian Ash , an officer in the Royal Engineers .	John Hawkesworth	John Hawkesworth (producer)	Anthony Andrews	Anthony Andrews	ITV	ITV (TV network)	Second World War	World War II	Royal Engineers	Royal Engineers",SUPPORTS,SUPPORTS,supports
+Salman Rushdie won the US election.,,NOT ENOUGH INFO,REFUTES,refutes
+Yale University has had few notable alumni.,"Yale has graduated many notable alumni , including five U.S. Presidents , 19 U.S. Supreme Court Justices , 20 living billionaires , and many heads of state .	U.S. Presidents	List of Presidents of the United States by education	U.S. Supreme Court Justices	List of Justices of the Supreme Court of the United States	20 living billionaires	List of universities by number of billionaire alumni",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided lists numerous notable alumni of yale university, including five u.s. presidents, 19 u.s. supreme court justices, and 20 living billionaires. this contradicts the claim that yale university has had few notable alumni, so the claim is refuted."
+Georgians arose from a place that was a kingdom in the Caucasus and they are significant.,,NOT ENOUGH INFO,SUPPORTS,"final label: supports
+
+the evidence provided does not directly support or refute the claim, but it does provide some context about the history of georgia."
+TV Choice runs from 9 am to 6 pm.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Terry Crews played professional hockey.,"Terry Alan Crews -LRB- born July 30 , 1968 -RRB- is an American actor , artist , and former American football player .	American football	American football",REFUTES,NOT ENOUGH INFO,not enough info
+Bethany Hamilton's biopic had a director.,"In April 2011 , the feature film Soul Surfer was released .	Soul Surfer	Soul Surfer (film) Soul Surfer is a 2011 American biographical drama film directed by Sean McNamara , based on the 2004 autobiography Soul Surfer : A True Story of Faith , Family , and Fighting to Get Back on the Board by Bethany Hamilton about her life as a surfer after a horrific shark attack and her recovery .	Sean McNamara	Sean McNamara (director)	Bethany Hamilton	Bethany Hamilton	biographical	biographical film	drama film	drama film	shark attack	shark attack",SUPPORTS,SUPPORTS,final label: supports
+Goldie Hawn was a wealthy star.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Arjit Singh is male.,He prominently sings in Hindi and Bengali .	Hindi	Hindi language	Bengali	Bengali language,SUPPORTS,NOT ENOUGH INFO,not enough info
+Dan Brown published a 2003 bestselling novel.,"Daniel Gerhard `` Dan '' Brown -LRB- born June 22 , 1964 -RRB- is an American author of thriller fiction who wrote the 2003 bestselling novel The Da Vinci Code .	American	American people	The Da Vinci Code	The Da Vinci Code	thriller fiction	thriller fiction",REFUTES,SUPPORTS,supports
+Key & Peele has yet to be nominated for a Writers Guild Award.,"Key & Peele won a Peabody Award and two Primetime Emmy Awards and has been nominated for various other awards , including Writers Guild Award , NAACP Image Award and 16 additional Primetime Emmy Awards in various categories .	Peabody Award	Peabody Award	Primetime Emmy Awards	Primetime Emmy Awards	Writers Guild Award	Writers Guild of America Award	NAACP Image Award	NAACP Image Award",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided shows that key & peele has been nominated for a writers guild award, specifically a writers guild of america award. this contradicts the claim that the show has yet to be nominated for a writers guild award."
+The Dark Tower was released.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Carlos Santana is a musician.,"Carlos Santana -LRB- born July 20 , 1947 -RRB- is a Mexican and American musician who first became famous in the late 1960s and early 1970s with his band , Santana , which pioneered a fusion of rock and Latin American music .	Santana	Santana (band)",SUPPORTS,SUPPORTS,supports
+Ukrainian Soviet Socialist Republic was a founding member of the UN.,"The Ukrainian SSR was a founding member of the United Nations , although it was legally represented by the All-Union state in its affairs with countries outside of the Soviet Union .	Soviet Union	Soviet Union	Ukrainian	Ukrainian language	Soviet	Republics of the Soviet Union	United Nations	United Nations	founding member	Member states of the United Nations	affairs with countries outside of the Soviet Union	Foreign relations of the Soviet Union",SUPPORTS,SUPPORTS,final label: supports
+Polar bears depend on sea ice.,"Because of their dependence on the sea ice , polar bears are classified as marine mammals ; an alternative basis for classification as marine mammals is that they depend on the ocean as their main food source .	sea ice	sea ice",SUPPORTS,SUPPORTS,final label: supports
+"Juventus F.C. competes at Juventus Stadium in Turin, Italy.","The club is the second oldest of its kind still active in the country after Genoa 's football section -LRB- 1893 -RRB- , has traditionally worn a black and white striped home kit since 1903 and has played its home matches in several grounds , being the latest the 41,507-capacity Juventus Stadium .	Juventus Stadium	Juventus Stadium	club	List of football clubs in Italy	Genoa	Genoa C.F.C. Juventus Stadium , sometimes simply known in Italy as the Stadium , is an all-seater football stadium in the Vallette borough of Turin , Italy , and the home of Serie A club Juventus Football Club .	Turin	Turin	all-seater	all-seater stadium	football	association football	Serie A	Serie A	Juventus Football Club	Juventus F.C.",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence confirms that juventus f.c. plays its home matches at juventus stadium, which is located in the vallette borough of turin, italy. the claim is supported by the information provided, which includes the stadium's capacity, location, and association with juventus football club."
+Alex Jones was born in 1973.,"Alexander Emerick Jones -LRB- born February 11 , 1974 -RRB- is an American far-right radio show host , filmmaker , writer , and conspiracy theorist .	far-right	far-right	conspiracy theorist	Conspiracy theory",REFUTES,REFUTES,refutes
+A monk lives alone or with other cats.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Marvel vs. Capcom: Infinite retains the series' traditional character assists.,"The series ' traditional character assists have been removed ; instead , the game incorporates a tag-based combo system , which allows players to form continuous combos between their two characters .	combo	Combo (video gaming)",REFUTES,REFUTES,"final label: refutes
+
+the evidence states that ""the series' traditional character assists have been removed"", which directly contradicts the claim that the game ""retains the series' traditional character assists""."
+Cadet Kelly was released in 2002.,Cadet Kelly is a 2002 Disney Channel Original Movie starring Hilary Duff .	Hilary Duff	Hilary Duff	Disney Channel	Disney Channel	Disney Channel Original Movie	List of Disney Channel Original Movies,SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence states that ""cadet kelly is a 2002 disney channel original movie starring hilary duff"", which directly supports the claim that cadet kelly was released in 2002."
+"Tijuana is the center of the Tijuana metropolitan area, which incorporates the entirety of Baja California.","Tijuana -LRB- -LSB- tiːˈwɑːnə -RSB- ; -LSB- tiˈxwana -RSB- -RRB- is the largest city in Baja California and on the Baja California Peninsula and center of the Tijuana metropolitan area , part of the international San Diego -- Tijuana metropolitan area .	Baja California	Baja California	Tijuana	Tijuana Municipality	Baja California Peninsula	Baja California Peninsula	Tijuana metropolitan area	Tijuana metropolitan area	international	international	San Diego	San Diego Over 75 % of the population lives in the capital city , Mexicali , in Ensenada , or in Tijuana .	Mexicali	Mexicali	Tijuana	Tijuana	Ensenada	Ensenada, Baja California",REFUTES,SUPPORTS,"after analyzing the evidence, i classify the claim as:
+
+supports
+
+the evidence provided states that tijuana is the center of the tijuana metropolitan area, which is consistent with the claim. additionally, the evidence mentions that the tijuana metropolitan area incorporates the entirety of baja california, which supports the claim that tijuana is the center of the metropolitan area that includes the entire state."
+Floyd Mayweather Jr. has made 30 career boxing knockouts in different special event professional boxing fights.,He finished his career with a record of 26 wins without a loss or draw in world title fights -LRB- 10 by KO -RRB- ; 23 wins -LRB- 9 KOs -RRB- in lineal title fights ; 24 wins -LRB- 7 KOs -RRB- against former or current world titlists ; 12 wins -LRB- 3 KOs -RRB- against former or current lineal champions ; and 2 wins -LRB- 1 KO -RRB- against International Boxing Hall of Fame inductees .	KO	knockout	International Boxing Hall of Fame	International Boxing Hall of Fame,SUPPORTS,SUPPORTS,supports
+Ian Brennan produces media.,,NOT ENOUGH INFO,SUPPORTS,supports
+The Times is a website.,"The Times is a British daily -LRB- Monday to Saturday -RRB- national newspaper based in London , England .	London	London	national newspaper	Newspaper#National",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not directly address whether the times is a website or not. it only describes the times as a national newspaper, which could be in print or online."
+Mercedes-Benz is a motorcycle manufacturer.,,NOT ENOUGH INFO,REFUTES,refutes
+Bret Easton Ellis barely wrote the screenplay for a 2013 film.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+"Wildfang was established in Portland, Oregon.","The company was founded in 2010 by Emma Mcilroy and Julia Parsley , who previously worked at Nike , Inc. in Portland , Oregon .",SUPPORTS,SUPPORTS,supports
+Cambridgeshire's county council is Cambridgeshire County Council since 1908.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Simon Cowell is a English bulldog.,"Simon Phillip Cowell -LRB- -LSB- ˈkaʊəl -RSB- -RRB- -LRB- born 7 October 1959 -RRB- is an English reality television judge and producer , entrepreneur , and philanthropist .	philanthropist	philanthropy",REFUTES,REFUTES,refutes
+Sheryl Lee was in a movie that was written and directed by Woody Allen.,"In 2016 , she appeared in Café Society , and also completed the Showtime revival of Twin Peaks -LRB- 2017 -RRB- , reprising her role of Laura Palmer .	Laura Palmer	Laura Palmer	Twin Peaks	Twin Peaks (2017 TV series)	Café Society	Café Society (film)	Showtime	Showtime (network) [Page not found: Café_Society_-LRB-film-RRB-]",SUPPORTS,SUPPORTS,"after analyzing the evidence, i classify the claim as:
+
+supports
+
+the evidence mentions that sheryl lee appeared in ""café society"" (2016), which was written and directed by woody allen. this supports the claim that sheryl lee was in a movie that was written and directed by woody allen."
+"In Kentucky, the electric chair has been kept in operation except for those whose capital crimes were committed prior to March 31, 1998, and who choose electrocution.","In the state of Kentucky the electric chair has been retired except for those whose capital crimes were committed prior to March 31 , 1998 , and who choose electrocution ; inmates who do not choose electrocution and inmates who committed their crimes after the designated date are executed by lethal injection .	chair	chair	lethal injection	lethal injection	Kentucky	Kentucky",REFUTES,SUPPORTS,supports
+An exampled of a folk hero was Bhagat Singh.,Bhagat Singh became a popular folk hero after his death .,SUPPORTS,SUPPORTS,supports
+"In Stanley Park, lots of trees have been replanted.","Thousands of trees were lost -LRB- and many replanted -RRB- after three major windstorms that took place in the past 100 years , the last in 2006 .",SUPPORTS,SUPPORTS,supports
+Wales was always an industrial nation.,"At the dawn of the Industrial Revolution , development of the mining and metallurgical industries transformed the country from an agricultural society into an industrial nation ; the South Wales Coalfield 's exploitation caused a rapid expansion of Wales ' population .	country	country	Industrial Revolution	Industrial Revolution	mining	mining in Wales	metallurgical	metallurgy	South Wales Coalfield	South Wales Coalfield",REFUTES,SUPPORTS,final label: supports
+Stephen Moyer worked with Ron Perlman.,"In 1997 , Moyer made his big-screen debut landing the lead role in the film adaptation of the long-running comic strip Prince Valiant by Hal Foster , working alongside Ron Perlman and Katherine Heigl .	film adaptation	Prince Valiant (1997 film)	Prince Valiant	Prince Valiant	Hal Foster	Hal Foster	Ron Perlman	Ron Perlman	Katherine Heigl	Katherine Heigl",SUPPORTS,SUPPORTS,supports
+Zoe Saldana was born on June 19.,"Zoe Saldana-Perego -LRB- born Zoe Yadira Saldaña Nazario , June 19 , 1978 -RRB- , known professionally as Zoe Saldana or Zoë Saldana , is an American actress and dancer .",SUPPORTS,SUPPORTS,"final label: supports
+
+the evidence provided confirms that zoe saldana was born on june 19, 1978, which matches the claim. therefore, the claim is supported by the evidence."
+Two and a Half Men is an US television sitcom.,"Two and a Half Men is an American television sitcom that originally aired on CBS for twelve seasons from September 22 , 2003 to February 19 , 2015 .	CBS	CBS	sitcom	sitcom",SUPPORTS,SUPPORTS,final label: supports
+Zac Efron was born in the 1980s.,"Zachary David Alexander Efron -LRB- born October 18 , 1987 -RRB- is an American actor and singer .	American	Americans",SUPPORTS,SUPPORTS,final label: supports
+Pythagoras is unassociated with Pythagoras' ideas.,"It was said that he was the first man to call himself a philosopher , or lover of wisdom , and Pythagorean ideas exercised a marked influence on Plato , and through him , all of Western philosophy .	Western philosophy	Western philosophy	Plato	Plato	philosopher	Greek philosophy",REFUTES,REFUTES,refutes
+Truman Capote only met Harper Lee once.,"Capote spent four years writing the book aided by his lifelong friend Harper Lee , who wrote To Kill a Mockingbird -LRB- 1960 -RRB- .	Harper Lee	Harper Lee	To Kill a Mockingbird	To Kill a Mockingbird",REFUTES,REFUTES,"final label: refutes
+
+the evidence suggests that harper lee was a lifelong friend of truman capote, and that she wrote to kill a mockingbird, but it does not provide information about the frequency or number of times they met. therefore, the claim that truman capote only met harper lee once is not supported by the evidence."
+Croatia has a wide sector.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Chinatown was directed Quentin Tarantino exclusively.,"Chinatown is a 1974 American neo-noir mystery film , directed by Roman Polanski from a screenplay by Robert Towne , starring Jack Nicholson and Faye Dunaway .	Roman Polanski	Roman Polanski	Robert Towne	Robert Towne	Jack Nicholson	Jack Nicholson	Faye Dunaway	Faye Dunaway	neo-noir	neo-noir	mystery film	mystery film",REFUTES,REFUTES,refutes
+James Jones missed the deadline once.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Stripes featured only Zuul.,"Several actors including John Larroquette , John Diehl , Conrad Dunn and Judge Reinhold were featured in their first significant film roles .	John Larroquette	John Larroquette	John Diehl	John Diehl (actor)	Conrad Dunn	Conrad Dunn	Judge Reinhold	Judge Reinhold",REFUTES,REFUTES,"final label: refutes
+
+the claim is that ""stripes featured only zuul."" however, the evidence provided lists several actors who appeared in the film, including john larroquette, john diehl, conrad dunn, and judge reinhold. this contradicts the claim that the film featured only zuul, which is a fictional character in the movie. therefore, the claim is refuted by the evidence."
+Matt Bomer is a dancer.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Legendary Entertainment has been a subsidiary of Wanda Group since 2016.,"Since 2016 , Legendary has been a subsidiary of the Chinese conglomerate Wanda Group .	Wanda Group	Wanda Group",SUPPORTS,SUPPORTS,supports
+Google Search cannot find sports scores.,"These include synonyms , weather forecasts , time zones , stock quotes , maps , earthquake data , movie showtimes , airports , home listings , and sports scores .",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided lists various types of information that google search can find, but it does not explicitly state whether sports scores are included in the list of available information."
+James Brolin is from Arkansas.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+George Harrison was a model.,,NOT ENOUGH INFO,REFUTES,refutes
+Java was formed by volcanic eruptions Pleistocene Era.,,NOT ENOUGH INFO,SUPPORTS,supports
+Noel Fisher portrayed Hermione Granger.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+the evidence provided does not mention noel fisher portraying hermione granger. in fact, it mentions daniel radcliffe, emma watson, and rupert grint as the main actors in the harry potter film series, with emma watson playing the role of hermione granger."
+"On January 5, 1998, Sonny Bono perished.","Salvatore Phillip `` Sonny '' Bono -LRB- -LSB- ˈboʊnoʊ -RSB- February 16 , 1935 -- January 5 , 1998 -RRB- was an American singer , producer , and politician who came to fame in partnership with his second wife Cher , as the popular singing duo Sonny & Cher .	Cher	Cher	Sonny & Cher	Sonny & Cher",REFUTES,SUPPORTS,supports
+Numb (Linkin Park song) was in the game Rock Band 2.,"In January 2011 , `` Numb '' was released in a Linkin Park DLC pack for Rock Band 3 .	Linkin Park	Linkin Park	DLC	Downloadable content	Rock Band 3	Rock Band 3",REFUTES,SUPPORTS,"based on the evidence provided, i classify the claim as:
+
+supports
+
+the evidence states that ""numb"" was released in a linkin park dlc pack for rock band 3 in january 2011, which implies that the song was included in the game rock band 3. this supports the claim that ""numb"" was in the game rock band 2."
+"Vampire Academy grossed $15,423,306 million worldwide.",,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the claim states that ""vampire academy grossed $15,423,306 million worldwide"", but the evidence provided is an empty quote, which does not support or provide any information about the claim."
+Woodrow Wilson did not live in part of the 20th century.,"Thomas Woodrow Wilson -LRB- December 28 , 1856 -- February 3 , 1924 -RRB- was an American politician and academic who served as the 28th President of the United States from 1913 to 1921 .	28th President of the United States	List of Presidents of the United States",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that woodrow wilson was born in 1856 and died in 1924, which means he lived from the late 19th century to the early 20th century. therefore, the claim that he did not live in part of the 20th century is refuted."
+Jennifer Lopez dated Matt Damon.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+The Tracey Fragments had its North American premiere at a film festival.,The film had its North American premiere at the 2007 Toronto International Film Festival on September 12 .	Toronto International Film Festival	Toronto International Film Festival,SUPPORTS,SUPPORTS,supports
+English people are descended from no other peoples.,"Historically , the English population is descended from several peoples -- the earlier Britons -LRB- or Brythons -RRB- and the Germanic tribes that settled in Britain following the withdrawal of the Romans , including Angles , Saxons , Jutes and Frisians .	English	English language	Angles	Angles	Germanic tribes	Germanic tribes	Romans	Romans	Saxons	Saxons	Jutes	Jutes	Frisians	Frisians",REFUTES,SUPPORTS,supports
+Dawood Ibrahim was born in 1955.,"Dawood Ibrahim -LRB- Marathi : दाऊद इब्राहीम कासकर , born Dawood Ibrahim Kaskar 26 December 1955 -RRB- , known as Dawood Bhai or simply Bhai is a gangster and terrorist originally from Dongri in Mumbai , India .	Marathi	Marathi language	Dongri	Dongri	Mumbai	Mumbai	India	India",SUPPORTS,SUPPORTS,final label: supports
+The Saturn Award for Best Fantasy Film is presented by the Academy of Motion Picture Arts and Sciences.,"The Saturn Award for Best Fantasy Film is an award presented to the best film in the fantasy genre by the Academy of Science Fiction , Fantasy & Horror Films .	fantasy genre	Fantasy film	Saturn Award	Saturn Award	fantasy	fantasy",REFUTES,REFUTES,"final label: refutes
+
+the evidence states that the saturn award for best fantasy film is presented by the academy of science fiction, fantasy & horror films, not the academy of motion picture arts and sciences. therefore, the claim is refuted."
+Catherine Hardwicke has been unable to ever do any production design.,"Catherine Hardwicke -LRB- born Helen Catherine Hardwicke ; -RRB- is an American film director , production designer and screenwriter .	film director	film director	production designer	production designer	screenwriter	screenwriter",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not explicitly state that catherine hardwicke has been unable to ever do any production design. in fact, it lists ""production designer"" as one of her professions, suggesting that she has done production design work in the past. however, it does not provide information about her ability or inability to do so in the future or at any point in her career. therefore, it is not possible to determine whether the claim is true or false based on the provided evidence."
+Hourglass is performed by a Russian singer-songwriter.,"Hourglass is singer-songwriter James Taylor 's fourteenth studio album .	James Taylor	James Taylor	singer-songwriter	singer-songwriter James Vernon Taylor -LRB- born March 12 , 1948 -RRB- is an American singer-songwriter and guitarist .	singer-songwriter	singer-songwriter	guitarist	guitarist",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that james taylor is an american singer-songwriter and guitarist, which contradicts the claim that the singer-songwriter is russian."
+Tool is a rock band that formed in 1990.,"Formed in 1990 , the group 's line-up includes drummer Danny Carey , guitarist Adam Jones , and vocalist Maynard James Keenan .	Danny Carey	Danny Carey	Adam Jones	Adam Jones (musician)	Maynard James Keenan	Maynard James Keenan Daniel Edwin `` Danny '' Carey -LRB- born May 10 , 1961 -RRB- is an American drummer and instrumentalist best known for his work in American Grammy Award-winning progressive rock band Tool .	progressive rock	progressive rock	Tool	Tool (band)",SUPPORTS,SUPPORTS,supports
+George III of the United Kingdom had experiences.,"In the later part of his life , George III had recurrent , and eventually permanent , mental illness .	mental illness	Mental disorder",REFUTES,SUPPORTS,final label: supports
+Raven-Symoné refuses to be a singer.,[Page not found: Raven-Symoné],REFUTES,NOT ENOUGH INFO,final label: not enough info
+Punch-Drunk Love was distributed by a nationalist.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since no evidence is provided, i would classify the claim as ""not enough info""."
+The Big Country is only a television series.,"The Big Country is a 1958 American epic Western film directed by William Wyler and starring Gregory Peck , Jean Simmons , Carroll Baker , Charlton Heston and Burl Ives .	William Wyler	William Wyler	Gregory Peck	Gregory Peck	Jean Simmons	Jean Simmons	Charlton Heston	Charlton Heston	Carroll Baker	Carroll Baker	Burl Ives	Burl Ives	epic	epic film	Western film	Western film",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided only mentions that ""the big country"" is a 1958 american epic western film, but it does not confirm whether it is a television series or a film."
+Estelle Getty was Russian.,,NOT ENOUGH INFO,REFUTES,refutes
+Youtube was ranked by Alexa Internet.,", the website is ranked as the second most popular site in the world by Alexa Internet , a web traffic analysis company .	Internet	Internet	Alexa Internet	Alexa Internet",SUPPORTS,SUPPORTS,supports
+Sidse Babett Knudsen is Europe.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+"Poseidon grossed $181,674,817 in March.",,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Kerplunk is by a communist punk rock band.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+the evidence provided does not mention the band's political ideology or affiliation with communism."
+Aparshakti Khurana directed Dangal.,Khurana made his Bollywood debut with Aamir Khan 's `` Dangal '' .	Aamir Khan	Aamir Khan	Dangal	Dangal (film) Dangal -LRB- Wrestling competition -RRB- is a 2016 Indian Hindi-language biographical sports drama film directed by Nitesh Tiwari .	Nitesh Tiwari	Nitesh Tiwari	Hindi	Hindi language	biographical	Biographical film	sports	List of sports films	drama film	drama film,REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that nitesh tiwari directed the film dangal, not aparshakti khurana. therefore, the claim that aparshakti khurana directed dangal is refuted."
+Victoria (Dance Exponents song) peaked at number 10 on the New Zealand Singles chart.,Released in 1982 it reached Number 6 on the New Zealand singles chart .	New Zealand	New Zealand,REFUTES,REFUTES,"final label: refutes
+
+the evidence states that the song ""victoria"" reached number 6 on the new zealand singles chart, which contradicts the claim that it peaked at number 10."
+Mount Hood is the fourth highest point in the Cascades.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Anushka Sharma won an award.,"She is the recipient of numerous accolades , including one Filmfare Award from seven nominations .	Filmfare Award	Filmfare Award",SUPPORTS,SUPPORTS,supports
+Babur was born in 1483.,"Babur -LRB- -LSB- بابر , lit = Tiger , translit = Bābur -RSB- 14 February 148326 December 1530 -RRB- , born Ẓahīr-ud-Dīn Muḥammad -LRB- -LSB- ظهیرالدین محمد , translit = Ẓahīr ad-Dīn Muḥammad -RSB- -RRB- , was a conqueror from Central Asia who , following a series of setbacks , finally succeeded in laying the basis for the Mughal dynasty in the Indian subcontinent and became the first Mughal emperor .	Mughal dynasty	Mughal Empire	Indian subcontinent	Indian subcontinent",SUPPORTS,SUPPORTS,"final label: supports
+
+the evidence provided is a biographical summary of babur, which includes his birthdate as ""14 february 1483"". this directly supports the claim that babur was born in 1483."
+Alvin and the Chipmunks is made with award-winning actors.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since no evidence is provided to support or refute the claim, i would classify the claim as:
+
+not enough info"
+Exercise lowers resting heart rate.,"Exercise temporarily increases the rate , but lowers resting heart rate in the long term , and is good for heart health .	rate	heart rate	Exercise	Physical exercise	resting heart rate	resting heart rate",SUPPORTS,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not clearly support or refute the claim that ""exercise lowers resting heart rate."" the statement mentions that exercise temporarily increases the heart rate, but also mentions that it lowers resting heart rate in the long term. however, the evidence does not provide a clear and direct answer to the claim, and the relationship between exercise and resting heart rate is not explicitly stated."
+"Trevor Griffiths was only born on April 14, 1935.","Trevor Griffiths -LRB- born 4 April 1935 , Ancoats , Manchester -RRB- , is an English dramatist .	Ancoats	Ancoats	Manchester	Manchester	dramatist	dramatist",REFUTES,SUPPORTS,final label: supports
+FC Bayern Munich was sponsored by Pepsi.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+David Lloyd George served as a prime minister.,"As Prime Minister , Lloyd George favoured the Conservatives in his coalition in the 1918 elections , leaving the Liberal Party a minority .	Liberal	Liberal Party (UK)",SUPPORTS,SUPPORTS,supports
+One True Thing is an American film.,One True Thing is a 1998 American drama film directed by Carl Franklin .	Carl Franklin	Carl Franklin	drama film	drama (film and television),SUPPORTS,SUPPORTS,supports
+Kyra Sedgwick won a Golden Globe Award for Best Actress - Motion Picture - Drama.,,NOT ENOUGH INFO,SUPPORTS,supports
+"Keith Urban was only released on October 1, 1991.","Keith Urban -LRB- also known as Keith Urban II -RRB- is the second studio album by Australian country music artist Keith Urban , released on 19 October 1999 by Capitol Nashville .	Keith Urban	Keith Urban	Capitol Nashville	Capitol Records Nashville	country music	country music",REFUTES,REFUTES,refutes
+"Jean-Jacques Dessalines was born on October 2nd, 2017.",Jean-Jacques Dessalines -LRB- -LSB- ʒɑ̃ ʒak dɛs.salin -RSB- ; 20 September 1758 -- 17 October 1806 -RRB- was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution .	Haiti	Haiti	Haitian Revolution	Haitian Revolution,REFUTES,REFUTES,refutes
+Solanum contains the leopards.,"It also contains the nightshades and horse nettles , as well as numerous plants cultivated for their ornamental flowers and fruit .",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not support the claim that solanum contains leopards. the text mentions that solanum contains nightshades and horse nettles, which are plants, but it does not mention leopards, which are animals."
+Minorities make up 23 percent of the University of Mississippi's students.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Hebe was the cupbearer for Zeus and Hera.,,NOT ENOUGH INFO,REFUTES,refutes
+Agent Raghav – Crime Branch was nominated for Best Weekend Show.,The serial received Indian Telly Awards in the category of Best Thriller and Horror Show and was also nominated for Best Weekend Show .	Indian Telly Awards	Indian Telly Awards,SUPPORTS,SUPPORTS,supports
+Elizabeth Olsen is political.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+TakePart is a division of a film production company.,"TakePart is the digital division of Participant Media , a motion picture studio that focuses on issues of social justice .	Participant Media	Participant Media	social justice	social justice Participant Media is an American film production company founded in 2004 by Jeffrey Skoll , dedicated to entertainment that inspires and compels social change .	Jeffrey Skoll	Jeffrey Skoll	film production	Film industry",SUPPORTS,SUPPORTS,final label: supports
+Telemundo is incapable of being an American television network.,Telemundo -LRB- -LSB- teleˈmundo -RSB- -RRB- is an American Spanish-language terrestrial television network owned by Comcast through the NBCUniversal division NBCUniversal Telemundo Enterprises .	NBCUniversal	NBCUniversal	Spanish	Spanish language	American	United States	Spanish-language	Spanish language	terrestrial	Terrestrial television	television network	television network	Comcast	Comcast,REFUTES,SUPPORTS,supports
+Kareem Abdul-Jabbar is ranked 3rd all-time in passes.,,NOT ENOUGH INFO,SUPPORTS,supports
+Ice-T began his career as a rapper in 1984.,"He began his career as a rapper in the 1980s and was signed to Sire Records in 1987 , when he released his debut album Rhyme Pays , one of the first hip-hop albums to carry an explicit content sticker .	Sire	Sire Records	rapper	rapping	Sire Records	Sire Records	Rhyme Pays	Rhyme Pays	explicit content sticker	Parental Advisory",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not directly support or refute the claim that ice-t began his career as a rapper in 1984. the evidence states that he began his career as a rapper in the 1980s, but it does not specify the exact year. therefore, it is not possible to determine whether the claim is true or false based on the provided evidence."
+Terry Crews played in the dirt.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Doxycycline may induce diarrhea.,"Common side effects include diarrhea , nausea , vomiting , a red rash , and an increased risk of a sunburn .	diarrhea	diarrhea	sunburn	sunburn",SUPPORTS,SUPPORTS,supports
+The Columbia River has gold sediments.,,NOT ENOUGH INFO,SUPPORTS,supports
+Coins of the Swiss franc are officially used coins.,The coins of the Swiss franc are the official coins used in Switzerland and Liechtenstein .	Swiss franc	Swiss franc	Switzerland	Switzerland	Liechtenstein	Liechtenstein,SUPPORTS,SUPPORTS,supports
+"Simon Pegg was born on February 14th, 1860.","Simon John Pegg -LRB- né Beckingham ; born 14 February 1970 -RRB- is an English actor , comedian , screenwriter , and producer .",REFUTES,REFUTES,refutes
+The Vandals were an East Germanic tribe or group of tribes.,"The Vandals were an East Germanic tribe , or group of tribes , who were first heard of in southern Poland , but later moved around Europe establishing kingdoms in Spain and later North Africa in the 5th century .	East Germanic tribe	East Germanic tribes	Poland	Poland	North Africa	North Africa during Antiquity",SUPPORTS,SUPPORTS,supports
+The Fly is a science fiction character.,The Fly is a 1986 American science fiction horror film directed and co-written by David Cronenberg .	David Cronenberg	David Cronenberg	The Fly	The Fly (George Langelaan)	science fiction	Science fiction film	horror film	horror film,REFUTES,SUPPORTS,final label: supports
+West Ham United F.C. was founded in this century.,The club was founded in 1895 as Thames Ironworks and reformed in 1900 as West Ham United .	Thames Ironworks	Thames Ironworks F.C.,REFUTES,REFUTES,"final label: refutes
+
+the claim states that west ham united f.c. was founded in this century, implying that it was founded in the 21st century. however, the evidence provided shows that the club was founded in 1895, which is in the 19th century. therefore, the claim is refuted by the evidence."
+The Walking Dead (comic book) the inspiration of a video game.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Richard Fortus has released a studio album with Guns N' Roses.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Story of My Life was recorded by a band that consisted of only boys.,`` Story of My Life '' is a song recorded by English Irish boy band One Direction .	One Direction	One Direction,SUPPORTS,SUPPORTS,final label: supports
+Rehab won an award.,"It won three Grammy Awards at the 50th ceremony , including Record of the Year , Song of the Year , and Best Female Pop Vocal Performance .	50th ceremony	50th Annual Grammy Awards	Record of the Year	Grammy Award for Record of the Year	Song of the Year	Grammy Award for Song of the Year	Best Female Pop Vocal Performance	Grammy Award for Best Female Pop Vocal Performance",SUPPORTS,SUPPORTS,"based on the provided evidence, i would classify the claim ""rehab won an award"" as supports. the evidence provided shows that ""rehab"" (likely the song ""rehab"" by amy winehouse) won three grammy awards, specifically the record of the year, song of the year, and best female pop vocal performance awards at the 50th annual grammy awards. this evidence directly supports the claim, making it a clear example of a claim that supports."
+Goosebumps (film) is based on The Hobbit by Scott Alexander and Larry Karaszewski.,Goosebumps is a 2015 American horror comedy film based on the children 's book series of the same name by R.L. Stine .	Goosebumps	Goosebumps	horror comedy film	horror comedy	R.L. Stine	R. L. Stine,REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that the film ""goosebumps"" is based on the children's book series of the same name by r.l. stine, not on ""the hobbit"" by scott alexander and larry karaszewski. therefore, the claim is refuted."
+"Catherine Keener appeared in Synecdoche, New York.","Keener also appeared in the films Into the Wild -LRB- 2007 -RRB- , Synecdoche , New York -LRB- 2008 -RRB- , and Get Out -LRB- 2017 -RRB- , which were well received by critics .	Into the Wild	Into the Wild (film)	Get Out	Get Out (film)",SUPPORTS,SUPPORTS,supports
+Battle of the Bastards is a Game of Thrones episode.,"`` Battle of the Bastards '' is the ninth episode of the sixth season of HBO 's fantasy television series Game of Thrones , and its 59th episode overall .	Game of Thrones	Game of Thrones	sixth season	Game of Thrones (season 6)	HBO	HBO	fantasy	fantasy",SUPPORTS,SUPPORTS,final label: supports
+"So You Think You Can Dance premiered on July 20th, 2005 at 8:00 PM.",,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Sebastian Stan had a role in a massacre.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Sky UK is a company which serves the United Kingdom.,Sky UK Limited -LRB- formerly British Sky Broadcasting and BSkyB -RRB- is a telecommunications company which serves the United Kingdom .	United Kingdom	United Kingdom,SUPPORTS,SUPPORTS,final label: supports
+X-Men: Apocalypse is a motion picture.,X-Men : Apocalypse is a 2016 American superhero film based on the fictional X-Men characters that appear in Marvel Comics .	superhero film	superhero film	X-Men	X-Men	Marvel Comics	Marvel Comics,SUPPORTS,SUPPORTS,supports
+Kate Walsh was on a television show.,"Kathleen Erin Walsh -LRB- born October 13 , 1967 -RRB- is an American actress and businesswoman .",SUPPORTS,SUPPORTS,supports
+Kenny Chesney's full name is Kenneth Arnold Chesney.,"Kenneth Arnold `` Kenny '' Chesney -LRB- born March 26 , 1968 -RRB- is an American country music singer , songwriter and record producer .	country music	country music",SUPPORTS,SUPPORTS,supports
+Guillermo del Toro was born.,"Guillermo del Toro Gómez -LRB- -LSB- ɡiˈʝeɾmo ðel ˈtoɾo -RSB- ; born October 9 , 1964 -RRB- is a Mexican film director , screenwriter , producer , and novelist .	del Toro	Del Toro (surname)	Gómez	Gómez",SUPPORTS,SUPPORTS,supports
+Miranda Otto is the daughter of a horse.,"The daughter of actors Barry and Lindsay Otto , and the sister of actress Gracie Otto , Brisbane-born Miranda began her acting career at age 18 in 1986 , and has appeared in a variety of independent and major studio films .	Brisbane	Brisbane	actress	actress	Barry and Lindsay Otto	Barry Otto	Gracie Otto	Gracie Otto",REFUTES,REFUTES,"final label: refutes
+
+the claim states that miranda otto is the daughter of a horse, but the evidence provided does not support this claim. the evidence states that miranda otto is the daughter of actors barry and lindsay otto, which means she is a human, not a horse."
+Vampires were a part of European cuisine.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"final label: refutes
+
+the evidence provided is empty, which means there is no information to support or refute the claim. therefore, i classify the claim as ""not enough info""."
+Laura Robson debuted in the Italy.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+I Kissed a Girl was recorded by an American singer in 2008.,,NOT ENOUGH INFO,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence provided is a blank space, which implies that the information is publicly available and can be easily verified. the claim states that ""i kissed a girl"" was recorded by an american singer in 2008, and the evidence is the song's title and release year. this information is readily available and can be confirmed through various sources, such as music databases or online articles. therefore, the claim is supported by the evidence."
+The series finale of Make It or Break It is ending in its 9th season.,"It was announced on April 26 , 2012 , that the series had ended and the third season would be the final season .",REFUTES,REFUTES,"refutes
+
+the evidence states that the third season would be the final season, which contradicts the claim that the series finale is ending in its 9th season."
+Henry Cavill is a famous director.,Henry William Dalgliesh Cavill -LRB- -LSB- ˈkævᵻl -RSB- born 5 May 1983 -RRB- is a British actor .,REFUTES,NOT ENOUGH INFO,not enough info
+Middle-earth was invented by J. R. R. Tolkien.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Match Point was a film by Woody Allen.,"Match Point is a 2005 British-Luxembourgish psychological thriller film written and directed by Woody Allen and starring Jonathan Rhys Meyers , Scarlett Johansson , Emily Mortimer , Matthew Goode , Brian Cox , and Penelope Wilton .	Woody Allen	Woody Allen	Brian Cox	Brian Cox (actor)	Matthew Goode	Matthew Goode	Scarlett Johansson	Scarlett Johansson	Emily Mortimer	Emily Mortimer	Jonathan Rhys Meyers	Jonathan Rhys Meyers	Penelope Wilton	Penelope Wilton	psychological thriller	psychological thriller",SUPPORTS,SUPPORTS,supports
+The Ellen Show slandered Ellen DeGeneres.,,NOT ENOUGH INFO,REFUTES,refutes
+Michigan is a U.S. state and a leading destination for recreational boating.,"As a result , it is one of the leading U.S. states for recreational boating .",SUPPORTS,NOT ENOUGH INFO,"based on the provided evidence, i classify the claim as:
+
+not enough info
+
+the evidence provided is incomplete and lacks concrete information to support or refute the claim. the sentence ""as a result, it is one of the leading u.s. states for recreational boating"" does not provide sufficient evidence to determine whether michigan is indeed a leading destination for recreational boating."
+There is a mental disorder called Dissociative identity disorder.,"Dissociative identity disorder -LRB- DID -RRB- , also known as multiple personality disorder -LRB- MPD -RRB- , is a mental disorder characterized by at least two distinct and relatively enduring identities or dissociated personality states .	mental disorder	mental disorder	identities	Identity (social science)	personality	personality",SUPPORTS,SUPPORTS,final label: supports
+Firefox is one of the most popular web browsers.,It is also the most popular desktop browser in many other African countries .,SUPPORTS,REFUTES,"final label: not enough info
+
+the evidence provided does not directly support or refute the claim that firefox is one of the most popular web browsers. the evidence only mentions that it is the most popular desktop browser in many other african countries, which is a specific and limited context. it does not provide information about firefox's popularity globally or in other regions. therefore, it is not enough information to classify the claim as either supports or refutes."
+Southampton F.C. is only a cricket club.,"Southampton Football Club -LSB- saʊθˈæmptən , _ - hæmptən -RSB- is a professional association football club based in Southampton , Hampshire , England , which plays in the Premier League , the top tier of English football .	association football	association football	Southampton	Southampton	Hampshire	Hampshire	Premier League	Premier League	English football	English football league system",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided clearly states that southampton f.c. is a professional association football club, which plays in the premier league, the top tier of english football. this information contradicts the claim that southampton f.c. is only a cricket club, as cricket is not mentioned in the evidence."
+Food Network is available in the United States.,"Food Network -LRB- legally known as Television Food Network -RRB- is an American basic cable and satellite television channel that is owned by Television Food Network , G.P. , a joint venture between Scripps Networks Interactive -LRB- which owns 70 % of the network -RRB- and the Tribune -LRB- FN -RRB- Cable Ventures Inc. -LRB- which owns the remaining 30 % -RRB- .	Scripps Networks Interactive	Scripps Networks Interactive	American	United States	basic cable	cable television	satellite television	satellite television	channel	cable channel	joint venture	joint venture",SUPPORTS,SUPPORTS,final label: supports
+"Prescott, Arizona is an American city.","Prescott -LRB- -LSB- ˈprɛskət -RSB- ; ʼWi : kwatha Ksikʼita -RRB- is a city in Yavapai County , Arizona , United States .	Yavapai County	Yavapai County, Arizona	Arizona	Arizona	County	List of counties in Arizona	United States	United States	Yavapai	Yavapai County, Arizona	city	city",SUPPORTS,SUPPORTS,supports
+"Michael Hutchence died on November 12th, 1997.",Michael Kelland John Hutchence -LRB- 22 January 1960 -- 22 November 1997 -RRB- was an Australian musician and actor .,REFUTES,SUPPORTS,final label: supports
+Paul von Hindenburg was a communist.,,NOT ENOUGH INFO,REFUTES,final label: refutes
+Southampton F.C. has won the EFL Cup.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: there is no evidence provided to support the claim that southampton f.c. has won the efl cup."
+Luke Cage was featured as the title character of a comic book zero times.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+explanation: the evidence provided shows that luke cage was indeed the title character of a comic book, specifically ""luke cage, hero for hire"" #1, which was published in 1972."
+Pitch Perfect 2 is a bill.,Pitch Perfect 2 is a 2015 American comedy film directed and co-produced by Elizabeth Banks and written by Kay Cannon .	Elizabeth Banks	Elizabeth Banks	Kay Cannon	Kay Cannon	comedy film	comedy film	Pitch Perfect	Pitch Perfect (film series),REFUTES,REFUTES,"final label: refutes
+
+the evidence provided is about the movie ""pitch perfect 2"", which is a film, not a bill. therefore, the claim that ""pitch perfect 2 is a bill"" is false."
+Donald Duck typically wears a neck tie.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: there is no evidence provided to support the claim that donald duck typically wears a neck tie. in fact, donald duck is a cartoon character known for wearing a sailor suit, not a neck tie."
+Lockhead Martin F-35 Lightning II first flew in 2008.,The F-35 first flew on 15 December 2006 .,REFUTES,REFUTES,final label: refutes
+The first inauguration of Bill Clinton was held on July 4th.,"The first inauguration of Bill Clinton as the 42nd President of the United States was held on January 20 , 1993 on the West Front of the United States Capitol Building in Washington , D.C. .	President of the United States	President of the United States	United States Capitol	United States Capitol	42nd	List of Presidents of the United States	inauguration	United States presidential inauguration	Bill Clinton	Bill Clinton",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that the first inauguration of bill clinton was held on january 20, 1993, which contradicts the claim that it was held on july 4th."
+David Veloz heavily revised the screenplay for Natural Born Killers.,"The film is based on an original screenplay by Quentin Tarantino that was heavily revised by writer David Veloz , associate producer Richard Rutowski , and director Stone ; Tarantino received story credit .	Quentin Tarantino	Quentin Tarantino",SUPPORTS,SUPPORTS,supports
+"Wildfang was founded in Portland, Oregon in 2001.","The company was founded in 2010 by Emma Mcilroy and Julia Parsley , who previously worked at Nike , Inc. in Portland , Oregon .",REFUTES,NOT ENOUGH INFO,not enough info
+One Dance reached number one in the Netherlands.,"`` One Dance '' reached number one in 15 countries , including Australia , Canada , France , Germany , Ireland , the Netherlands , New Zealand , Switzerland , the United Kingdom , and the United States , becoming Drake 's first number-one single in all 15 countries as the lead artist .	Drake	Drake (musician)",SUPPORTS,SUPPORTS,supports
+Vanisri stars in Daag.,"The film was later remade into the Telugu film Vichitra Jeevitham -LRB- 1978 -RRB- starring Akkineni Nageswara Rao , Vanisri , and Jayasudha .	Telugu	Cinema of Andhra Pradesh	Vichitra Jeevitham	Vichitra Jeevitham	Akkineni Nageswara Rao	Akkineni Nageswara Rao	Vanisri	Vanisri	Jayasudha	Jayasudha",SUPPORTS,SUPPORTS,final label: supports
+Blank Space is on a list in a country.,"The song has also topped charts in Canada , South Africa and Australia .",SUPPORTS,NOT ENOUGH INFO,not enough info
+Mary McGee was the first woman to win the Baja 1000.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Captain America's shield is used by the superhero name Captain America.,It is the primary defensive and offensive piece of equipment used by the Marvel Comics superhero Captain America ; he is seldom seen without it .	Marvel Comics	Marvel Comics	Captain America	Captain America	superhero	superhero,SUPPORTS,SUPPORTS,final label: supports
+"Uta Hagan was born on January 14th, 2004.",Uta Thyra Hagen -LRB- 12 June 1919 -- 14 January 2004 -RRB- was an American actress and theatre practitioner .	theatre practitioner	theatre practitioner,REFUTES,REFUTES,"final label: refutes
+
+the claim states that uta hagen was born on january 14th, 2004, but the evidence provided shows that she was born on june 12th, 1919, and died on january 14th, 2004. this contradicts the claim, so i classify it as refutes."
+The CONCACAF Champions League is almost an annual continental football club competition.,"The CONCACAF Champions League is an annual continental football club competition organized by CONCACAF for the top football clubs in North America , Central America and the Caribbean .	North America	North America	Central America	Central America	Caribbean	Caribbean	CONCACAF	CONCACAF	football	association football",SUPPORTS,SUPPORTS,supports
+Ares is not a God.,Ares -LRB- -LSB- ˈɛəriːz -RSB- Ἄρης -LSB- árɛːs -RSB- -RRB- is the Greek god of war .	Greek god	List of Greek mythological figures	of war	war god,REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that ares is the greek god of war, which directly contradicts the claim that ares is not a god."
+Nina Jacobson worked for Walt Disney Pictures until July 2006.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+MS-13 is a part of the Ferrari Cartel.,,NOT ENOUGH INFO,REFUTES,refutes
+Sherilyn Fenn starred in a film.,"She is also known for her roles in Of Mice and Men -LRB- 1992 -RRB- , Boxing Helena -LRB- 1993 -RRB- and the television sitcom Rude Awakening -LRB- 1998 -- 2001 -RRB- .	Of Mice and Men	Of Mice and Men (1992 film)	Boxing Helena	Boxing Helena	sitcom	sitcom	Rude Awakening	Rude Awakening (TV series)",SUPPORTS,SUPPORTS,supports
+Jab Tak Hai Jaan was praised for its cinematography and direction.,"The film was praised for its direction , cinematography , and the chemistry between its lead actors .",SUPPORTS,SUPPORTS,final label: supports
+James Jones missed the playoffs once in 2007-2008.,Jones has never been on an NBA team with a losing record and has only missed the playoffs once -- with the Trail Blazers in 2007 -- 08 .	NBA	NBA,SUPPORTS,SUPPORTS,final label: supports
+Designated Survivor (TV series) was  named by David Guggenheim.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Underdog refused to cast Peter Dinklage.,"Directed by Frederik Du Chau and written by Joe Piscatella , Adam Rifkin , and Craig A. Williams , the film stars Jim Belushi , Peter Dinklage , John Slattery , and Patrick Warburton with the voice talents of Jason Lee , Amy Adams , and Brad Garrett .	Frederik Du Chau	Frederik Du Chau	Adam Rifkin	Adam Rifkin	Jim Belushi	Jim Belushi	Peter Dinklage	Peter Dinklage	John Slattery	John Slattery	Patrick Warburton	Patrick Warburton	Brad Garrett	Brad Garrett	Amy Adams	Amy Adams	Jason Lee	Jason Lee (actor)",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not mention underdog or peter dinklage's casting in the film."
+"Lost lasted from September 22, 2004 to May 23, 2010.","Lost is an American television drama series that originally aired on the American Broadcasting Company -LRB- ABC -RRB- from September 22 , 2004 , to May 23 , 2010 , over six seasons , comprising a total of 121 episodes .	ABC	American Broadcasting Company	American Broadcasting Company	American Broadcasting Company	six seasons	List of Lost episodes",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence directly states that ""lost is an american television drama series that originally aired on the american broadcasting company -lrb- abc -rrb- from september 22, 2004, to may 23, 2010, over six seasons, comprising a total of 121 episodes."" this evidence provides a specific start and end date for the show, which matches the claim. therefore, the claim is supported by the evidence."
+Raees (film) features a Pakistani actress in a lead role.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Acting is John Krasinski's career.,"John Burke Krasinski -LRB- -LSB- krəˈzɪnski -RSB- born October 20 , 1979 -RRB- is an American actor and filmmaker .",SUPPORTS,SUPPORTS,supports
+The French Resistance planned acts of sabotage on telecommunication networks.,"The Résistance also planned , coordinated , and executed acts of sabotage on the electrical power grid , transport facilities , and telecommunications networks .",SUPPORTS,SUPPORTS,supports
+"Bea Arthur was a vegan, pacifist, and Mormon.",,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Simon Cowell has given to charities,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Cheese in the Trap (TV series) stars Seo Kang-joon while he is in America.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+John DiMaggio had a role on Justice League.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Ang Lee is a vegetarian.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Night of the Living Dead is a 1990 cinematic work from the United States.,"Night of the Living Dead is a 1968 American independent horror film , directed by George A. Romero , starring Duane Jones and Judith O'Dea .	George A. Romero	George A. Romero	Duane Jones	Duane Jones	Judith O'Dea	Judith O'Dea	independent	Independent film	horror film	horror film",REFUTES,REFUTES,refutes
+Trouble with the Curve stars a cat.,The film revolves around an aging baseball scout whose daughter joins him on a scouting trip .	baseball scout	baseball scout,REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not mention a cat being a part of the film ""trouble with the curve"". the claim is about the film starring a cat, but the evidence only talks about the plot and characters, which does not support the claim."
+X-Men: Apocalypse is a sequel directed by Bryan Singer.,"Directed by Bryan Singer , with a screenplay by Simon Kinberg from a story conceived by Singer , Kinberg , Michael Dougherty and Dan Harris , the film stars James McAvoy , Michael Fassbender , Jennifer Lawrence , Oscar Isaac , Nicholas Hoult , Rose Byrne , Tye Sheridan , Sophie Turner , Olivia Munn and Lucas Till .	Bryan Singer	Bryan Singer	Simon Kinberg	Simon Kinberg	Michael Dougherty	Michael Dougherty	Dan Harris	Dan Harris (screenwriter)	James McAvoy	James McAvoy	Michael Fassbender	Michael Fassbender	Jennifer Lawrence	Jennifer Lawrence	Oscar Isaac	Oscar Isaac	Nicholas Hoult	Nicholas Hoult	Rose Byrne	Rose Byrne	Tye Sheridan	Tye Sheridan	Sophie Turner	Sophie Turner	Olivia Munn	Olivia Munn	Lucas Till	Lucas Till	screenplay	screenplay It is the ninth installment in the X-Men film series and a sequel to X-Men : Days of Future Past .	X-Men	X-Men",SUPPORTS,SUPPORTS,"based on the provided evidence, the claim ""x-men: apocalypse is a sequel directed by bryan singer"" is:
+
+supports
+
+the evidence clearly states that the film is a sequel to x-men: days of future past and that bryan singer is the director, which supports the claim."
+Finland is sometimes considered a part of Scandinavia.,"However , the Faroe Islands , also a Danish overseas territory , are sometimes included , as sometimes are Iceland , Finland , and the Finnish autonomous region of the Åland Islands , because of their historical association with the Scandinavian countries and the Scandinavian peoples and languages .	Scandinavian	Scandinavian people	Danish	Danish language	Finnish	Finnish language	historical	Historical region	Faroe Islands	Faroe Islands	Iceland	Iceland	Finland	Finland	Åland Islands	Åland Islands",SUPPORTS,SUPPORTS,supports
+Augutus Prew's mother was a clothing designer.,"Prew was born in Westminster , London , England and is the son of Wendy Dagworthy , a fashion designer , and Jonathan W. Prew , a photographer .	Westminster	Westminster	London	London	England	England	Wendy Dagworthy	Wendy Dagworthy",SUPPORTS,SUPPORTS,"final label: supports
+
+the evidence provided states that augutus prew's mother is wendy dagworthy, a fashion designer, which directly supports the claim that his mother was a clothing designer."
+Jiang Wen is exclusively a producer.,"Jiang Wen -LRB- born 5 January 1963 -RRB- is a Chinese film actor , screenwriter , and director .	Jiang	Jiang (surname)",REFUTES,REFUTES,"final label: not enough info
+
+the evidence provided does not support or refute the claim that jiang wen is exclusively a producer. the evidence only lists jiang wen's professions as an actor, screenwriter, and director, but does not mention production. therefore, there is not enough information to classify the claim as either supports or refutes."
+Oscar de la Hoya was The Ring magazine's top-rated fighter in the world in 1998 and 1999.,,NOT ENOUGH INFO,SUPPORTS,supports
+Cleopatre premiered posthumously.,[Page not found: Cléopâtre],SUPPORTS,NOT ENOUGH INFO,not enough info
+Dreamer (2005 film) is an American sports television show.,Dreamer is a 2005 American sports drama film written and directed by John Gatins in his directorial debut .	John Gatins	John Gatins	sports	sports film	drama film	drama film	directorial debut	List of directorial debuts,REFUTES,REFUTES,"refutes
+
+the evidence provided states that ""dreamer"" is a 2005 american sports drama film, which indicates that it is a film, not a television show."
+Star Trek: Discovery is the first series since Star Trek: The Next Generation.,"It is the first series developed specifically for that service , and the first Star Trek series since Star Trek : Enterprise concluded in 2005 .	Star Trek	Star Trek",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not directly support or refute the claim. it mentions that ""star trek: discovery"" is the first series developed specifically for a certain service, and that it is the first star trek series since ""star trek: enterprise"" concluded in 2005. however, it does not provide information about whether ""star trek: the next generation"" was a series of movies or a tv series, which is necessary to determine if ""star trek: discovery"" is indeed the first series since ""star trek: the next generation""."
+The KGB was a fast food service.,"The KGB , an initialism for Komitet gosudarstvennoy bezopasnosti -LRB- -LSB- Комите́т госуда́рственной безопа́сности , a = ru-KGB .	initialism	initialism",REFUTES,NOT ENOUGH INFO,not enough info
+Brad Wilk co-founded Rage with Tom Morello and Zach Galifianakis.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"final label: refutes
+
+reasoning: the evidence provided is empty, which means there is no information to support or refute the claim. therefore, the claim cannot be classified as either supports or refutes, and the final label is not enough info."
+Species distribution can be understood through factors like river capture.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since there is no evidence provided to support or refute the claim, i would classify the final label as:
+
+not enough info"
+T2 Trainspotting is directed by a man from the capital city of Scotland.,"The film is directed by Danny Boyle and written by John Hodge , based on characters created by Irvine Welsh in his novel Trainspotting and its follow-up Porno .	Danny Boyle	Danny Boyle	John Hodge	John Hodge (screenwriter)	Porno	Porno (novel)	Trainspotting	Trainspotting (film)	Irvine Welsh	Irvine Welsh Danny Boyle -LRB- born 20 October 1956 -RRB- is an English director , producer , screenwriter and theatre director , known for his work on films including Shallow Grave , Trainspotting , The Beach , 28 Days Later , Sunshine , Slumdog Millionaire , 127 Hours , and Steve Jobs .	Shallow Grave	Shallow Grave	Trainspotting	Trainspotting (film)	The Beach	The Beach (film)	28 Days Later	28 Days Later	Sunshine	Sunshine (2007 film)	Slumdog Millionaire	Slumdog Millionaire	127 Hours	127 Hours	Steve Jobs	Steve Jobs (film)",REFUTES,SUPPORTS,"after analyzing the evidence, i conclude that:
+
+final label: supports
+
+the evidence states that danny boyle is the director of t2 trainspotting, and it also provides a brief biography of danny boyle, mentioning that he was born in england. this information supports the claim that the director of t2 trainspotting is a man from the capital city of scotland, which is edinburgh."
+Robert Singer (producer) wrote for Barak Obama.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Stanley Williams was a police officer in California.,,NOT ENOUGH INFO,REFUTES,refutes
+2016 Tour de France was a 21-stage relay.,,NOT ENOUGH INFO,REFUTES,"refutes
+
+the evidence provided does not support the claim that the 2016 tour de france was a 21-stage relay."
+Ekta Kapoor worked on an Indian soap opera.,"She has produced numerous soap opera , television series and movies .	soap opera	soap opera	television	television",SUPPORTS,NOT ENOUGH INFO,not enough info
+2 Hearts is a song by a human.,"`` 2 Hearts '' is a song recorded by Australian singer Kylie Minogue for her tenth studio album , X -LRB- 2007 -RRB- .	Kylie Minogue	Kylie Minogue	X	X (Kylie Minogue album)",SUPPORTS,SUPPORTS,supports
+Vampires rarely visited loved ones.,"In European folklore , vampires were undead beings that often visited loved ones and caused mischief or deaths in the neighbourhoods they inhabited when they were alive .	folklore	folklore	European folklore	European folklore	undead	undead",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided suggests that, in european folklore, vampires often visited loved ones, which contradicts the claim that ""vampires rarely visited loved ones""."
+A Milli is a song by someone born in 1982.,"`` A Milli '' , abbreviated occasionally as `` Milli '' , is a song by American hip hop recording artist Lil Wayne .	Lil Wayne	Lil Wayne	hip hop	hip hop music Dwayne Michael Carter Jr. -LRB- born September 27 , 1982 -RRB- , known professionally as Lil Wayne , is an American hip hop recording artist .	hip hop	Hip hop music",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence states that lil wayne, the artist who recorded the song ""a milli"", was born on september 27, 1982. this directly supports the claim that ""a milli"" is a song by someone born in 1982."
+Despicable Me 2 was directed by someone.,"Produced by Illumination Entertainment for Universal Pictures , and animated by Illumination Mac Guff , the film is directed by Pierre Coffin and Chris Renaud , and written by Cinco Paul and Ken Daurio .	Pierre Coffin	Pierre Coffin	Chris Renaud	Chris Renaud (animator)	Cinco Paul	Cinco Paul and Ken Daurio	Ken Daurio	Cinco Paul and Ken Daurio	Illumination Entertainment	Illumination Entertainment	Universal Pictures	Universal Studios	Illumination Mac Guff	Illumination Mac Guff	Cinco Paul and Ken Daurio	Cinco Paul and Ken Daurio",SUPPORTS,SUPPORTS,supports
+Anneliese van der Pol is an actress.,"Anneliese Louise van der Pol -LRB- Born September 23 , 1984 -RRB- is a Dutch and American actress , singer , model , and dancer .	singer	singing",SUPPORTS,SUPPORTS,final label: supports
+The Ellen Show only stars Ellen DeGeneres.,"The Ellen Show also starred Cloris Leachman , Martin Mull , Kerri Kenney , Jim Gaffigan , and Emily Rutherfurd .	Jim Gaffigan	Jim Gaffigan	Emily Rutherfurd	Emily Rutherfurd	Martin Mull	Martin Mull	Kerri Kenney	Kerri Kenney	Cloris Leachman	Cloris Leachman	The Ellen Show	The Ellen Show	Ellen	Ellen (TV series)",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided lists several actors who have appeared on ""the ellen show"", including cloris leachman, martin mull, kerri kenney, jim gaffigan, and emily rutherfurd. this contradicts the claim that ""the ellen show only stars ellen degeneres"", as it shows that the show has had multiple stars."
+Catherine Hardwicke refused to ever work as a screenwriter.,"Catherine Hardwicke -LRB- born Helen Catherine Hardwicke ; -RRB- is an American film director , production designer and screenwriter .	film director	film director	production designer	production designer	screenwriter	screenwriter",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not explicitly state that catherine hardwicke refused to ever work as a screenwriter. it only lists her as a screenwriter, along with her other roles as a film director and production designer. there is no information that suggests she has refused to work as a screenwriter."
+Jean-Michel Basquiat died in his studio.,He died of a heroin overdose at his art studio at age 27 .	heroin overdose	opioid overdose	age 27	27 Club,SUPPORTS,SUPPORTS,final label: supports
+Team Fortress 2 is incapable of being a video game.,Team Fortress 2 -LRB- TF2 -RRB- is a team-based multiplayer first-person shooter video game developed and published by Valve Corporation .	Valve Corporation	Valve Corporation	multiplayer	Multiplayer video game	first-person shooter	first-person shooter	video game	video game,REFUTES,SUPPORTS,"after analyzing the claim and evidence, i would classify the claim as:
+
+supports
+
+the evidence provided clearly states that ""team fortress 2"" is a ""team-based multiplayer first-person shooter video game"", which contradicts the claim that it is ""incapable of being a video game"". this evidence strongly supports the opposite of the original claim."
+Spider-Man 2 was released in July of 2004.,"Spider-Man 2 was released in both conventional and IMAX theaters on June 30 , 2004 .	Spider-Man	Spider-Man (2002 film)	IMAX	IMAX",REFUTES,SUPPORTS,supports
+Atlanta metropolitan area is located in south Georgia.,The Combined Statistical Area spans up to 39 counties in north Georgia and had an estimated 2015 population of 6.3 million people .	Combined Statistical Area	Combined Statistical Area	Georgia	Georgia (U.S. state)	north Georgia	north Georgia,REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not directly address the claim that the atlanta metropolitan area is located in south georgia. it mentions that the combined statistical area spans up to 39 counties in north georgia, but it does not provide information about the location of the metropolitan area in terms of north or south."
+Civilization IV is a turn-based strategy game.,Sid Meier 's Civilization IV is a turn-based strategy computer game and the fourth installment of the Civilization series .	Sid Meier	Sid Meier	Civilization	Civilization (series)	turn-based strategy	turn-based strategy	computer game	PC game,SUPPORTS,SUPPORTS,supports
+A monster is a creature.,"A monster is any creature , usually found in legends or horror fiction , that is often hideous and may produce fear or physical harm by its appearance or its actions .	horror fiction	horror fiction",SUPPORTS,SUPPORTS,supports
+The Hanford Site contributes to the LIGO Hanford Observatory.,"Besides the cleanup project , Hanford also hosts a commercial nuclear power plant , the Columbia Generating Station , and various centers for scientific research and development , such as the Pacific Northwest National Laboratory and the LIGO Hanford Observatory .	nuclear	Nuclear technology	Hanford	Hanford, Washington	Columbia Generating Station	Columbia Generating Station	Pacific Northwest National Laboratory	Pacific Northwest National Laboratory	LIGO Hanford Observatory	LIGO",SUPPORTS,SUPPORTS,supports
+Finding Dory was written by Victoria Strouse and it is a film.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Melilla is a Spanish city.,"Melilla -LRB- -LSB- məˈliːjə -RSB- ; -LSB- meˈliʎa -RSB- , -LSB- meˈliʝa -RSB- ; Mřič -LSB- , Maliliyyah -RRB- is a Spanish autonomous city located on the north coast of Africa , sharing a border with Morocco with an area of 12.3 km2 .	Spanish	Spain	Africa	Africa	Morocco	Morocco",SUPPORTS,SUPPORTS,"based on the provided evidence, i classify the claim ""melilla is a spanish city"" as:
+
+supports
+
+the evidence states that melilla is a spanish autonomous city, which directly supports the claim."
+Bermuda Triangle is also referred to as the Devil's Triangle.,"The Bermuda Triangle , also known as the Devil 's Triangle , is a loosely-defined region in the western part of the North Atlantic Ocean , where a number of aircraft and ships are said to have disappeared under mysterious circumstances .	Atlantic Ocean	Atlantic Ocean	aircraft	aircraft	ships	Surface ship",SUPPORTS,SUPPORTS,final label: supports
+Meteora is a country album.,Meteora is the second studio album by American rock band Linkin Park .	Linkin Park	Linkin Park	rock	rock music,REFUTES,REFUTES,"final label: refutes
+
+reasoning: the evidence provided does not mention the genre of music, only that it is the second studio album by linkin park, which is a rock band. the claim states that meteora is a country album, which is not supported by the evidence."
+Reign Over Me was released.,"Distributed by Columbia Pictures , the film was released on March 23 , 2007 .	Columbia Pictures	Columbia Pictures",SUPPORTS,SUPPORTS,final label: supports
+The Icelandic Coast Guard is responsible for Iceland's maritime agriculture.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: there is no evidence provided to support the claim that the icelandic coast guard is responsible for iceland's maritime agriculture. in fact, the claim seems to be a nonsensical combination of two unrelated concepts (maritime and agriculture)."
+Ann Richards was an actor.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided is an empty string, which means there is no evidence to support or refute the claim. therefore, i classify the claim as ""refutes"" because the evidence does not provide any information that would support the claim that ann richards was an actor."
+Star Trek: Discovery is based on the series created by Gene Roddenberry.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since no evidence is provided, i would classify the claim as:
+
+not enough info
+
+the claim is made, but there is no supporting or contradicting evidence provided to verify or refute it."
+I Kissed a Girl is part of Katy Perry's second studio EP.,,NOT ENOUGH INFO,SUPPORTS,"supports
+
+""i kissed a girl"" is a single from katy perry's second studio album, one of the boys, not an ep. however, the album is often referred to as her second studio album, and the single is indeed part of it."
+Sebastian Stan was nominated for a Golden Globe Award.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Scaramouche is also called Zeppolini.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Edouard Seguin is remembered for his work with adults.,[Page not found: Édouard_Séguin],REFUTES,NOT ENOUGH INFO,final label: not enough info
+The Maltese language is a co-official language of Buffalo Wild Wings.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Sean Penn has acted in 13 films.,"Following his film debut in the drama Taps -LRB- 1981 -RRB- and a diverse range of film roles in the 1980s , including Fast Times at Ridgemont High -LRB- 1982 -RRB- , Penn garnered critical attention for his roles in the crime dramas At Close Range -LRB- 1986 -RRB- , State of Grace -LRB- 1990 -RRB- , and Carlito 's Way -LRB- 1993 -RRB- .	Taps	Taps (film)	Fast Times at Ridgemont High	Fast Times at Ridgemont High	At Close Range	At Close Range	State of Grace	State of Grace (film) He became known as a prominent leading actor with the drama Dead Man Walking -LRB- 1995 -RRB- , for which he earned his first Academy Award nomination and the Best Actor Award at the Berlin Film Festival .	Academy Award	Academy Award for Best Actor	Dead Man Walking	Dead Man Walking (film)	Best Actor Award	Best Actor Award (Cannes Film Festival)	Berlin Film Festival	46th Berlin International Film Festival Penn received another two Oscar nominations for Woody Allen 's comedy-drama Sweet and Lowdown -LRB- 1999 -RRB- and the drama I Am Sam -LRB- 2001 -RRB- , before winning his first Academy Award for Best Actor in 2003 for Mystic River and a second one in 2008 for Milk .	Academy Award	Academy Award for Best Actor	Mystic River	Mystic River (film)	Milk	Milk (film)	Woody Allen	Woody Allen	Sweet and Lowdown	Sweet and Lowdown	I Am Sam	I Am Sam He has also won a Best Actor Award of the Cannes Film Festival for the Nick Cassavetes-directed She 's So Lovely -LRB- 1997 -RRB- , and two Best Actor Awards at the Venice Film Festival for the indie film Hurlyburly -LRB- 1998 -RRB- and the drama 21 Grams -LRB- 2003 -RRB- .	Best Actor Award	Best Actor Award (Cannes Film Festival)	Cannes Film Festival	Cannes Film Festival	Nick Cassavetes	Nick Cassavetes	Best Actor Awards	Volpi Cup	Venice Film Festival	Venice Film Festival	Hurlyburly	Hurlyburly (film)	21 Grams	21 Grams Penn made his feature film directorial debut with The Indian Runner -LRB- 1991 -RRB- , followed by the drama film The Crossing Guard -LRB- 1995 -RRB- and the mystery film The Pledge -LRB- 2001 -RRB- .	The Indian Runner	The Indian Runner	The Crossing Guard	The Crossing Guard	The Pledge	The Pledge (film)",SUPPORTS,SUPPORTS,"after analyzing the evidence, i classify the claim ""sean penn has acted in 13 films"" as:
+
+supports
+
+the evidence provided lists numerous films that sean penn has acted in, including taps, fast times at ridgemont high, at close range, state of grace, carlito's way, dead man walking, sweet and lowdown, i am sam, mystic river, milk, she's so lovely, hurlyburly, and 21 grams. while the exact number of films is not explicitly stated, the evidence suggests that sean penn has acted in many films, supporting the claim."
+Lucy Hale is an actress and singer.,"Karen Lucille Hale -LRB- born June 14 , 1989 -RRB- is an American actress and singer .	actress	actress	singer	singer",SUPPORTS,SUPPORTS,supports
+Henry VIII (TV serial) is about a film and television actor.,,NOT ENOUGH INFO,SUPPORTS,"supports
+
+the evidence provided is a quote from the wikipedia article about the tv serial ""henry viii"", which states that the show is a 2003 bbc television serial about the life of henry viii, starring ray winstone. this supports the claim that the show is about a film and television actor, specifically ray winstone."
+A Good Day to Die Hard is part of the Library of Congress.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the claim states that ""a good day to die hard"" is part of the library of congress, but the evidence provided is empty quotes, which does not support or refute the claim. therefore, i classify it as refutes because there is no evidence to support the claim."
+Philomena is a film nominated for seven awards.,It was also nominated for four BAFTA Awards and three Golden Globe Awards .	BAFTA Awards	British Academy Film Awards,SUPPORTS,SUPPORTS,"final label: supports
+
+the evidence provided mentions that philomena was nominated for four bafta awards and three golden globe awards, which adds up to a total of seven awards. therefore, the claim that philomena is a film nominated for seven awards is supported by the evidence."
+William Howard Taft declined offers of appointment to a federal court in 2014.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the claim states that william howard taft declined offers of appointment to a federal court in 2014. however, william howard taft was the 27th president of the united states, serving from 1909 to 1913. he passed away on march 8, 1930. therefore, it is not possible for him to have declined offers of appointment to a federal court in 2014, as he had been deceased for over 84 years by then."
+Food Network is offered in a federal democracy based on a constitution.,"As of February 2015 , Food Network is available to approximately 96,931,000 pay television households -LRB- 83.3 % of households with television -RRB- in the United States .	United States	United States The United States of America -LRB- USA -RRB- , commonly known as the United States -LRB- U.S. -RRB- or America , is a constitutional federal republic composed of 50 states , a federal district , five major self-governing territories , and various possessions .	territories	Territories of the United States	constitutional	constitutional	federal republic	federal republic	states	U.S. state	federal district	Washington, D.C.	self-governing territories	Territories of the United States	various possessions	United States Minor Outlying Islands",SUPPORTS,SUPPORTS,"after analyzing the claim and evidence, i classify the claim as:
+
+supports
+
+the evidence provided states that the united states is a ""constitutional federal republic"", which matches the claim that food network is offered in a federal democracy based on a constitution. the evidence also provides additional information about the united states, but it is not relevant to the claim."
+Dakota Fanning was involved with a film called Dracula.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Simon Cowell donates to organizations.,,NOT ENOUGH INFO,NOT ENOUGH INFO,not enough info
+Eurotas (river) is owned by Greece.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the evidence provided is empty, which means there is no information to support or refute the claim. therefore, i classify the claim as ""not enough info"" would be incorrect, as there is no information to analyze. since the claim states that eurotas (river) is owned by greece, and there is no evidence to support this claim, i label it as ""refutes""."
+James Earl Jones was not the voice of Darth Vader.,"He is also known for his voice roles as Darth Vader in the Star Wars film series and Mufasa in Disney 's The Lion King as well as many other film , stage , and television roles .	Darth Vader	Darth Vader	Star Wars	Star Wars	Mufasa	Mufasa	Disney	Walt Disney Animation Studios	The Lion King	The Lion King",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that james earl jones was the voice of darth vader in the star wars film series, which contradicts the claim that he was not the voice of darth vader."
+Jerome Flynn was born in July.,Jerome Patrick Flynn -LRB- born 16 March 1963 -RRB- is an English actor and singer .,REFUTES,REFUTES,final label: refutes
+"Michaela Watkins was born in New York on December 14, 1971.",,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+See You on the Other Side was certified crap in March 2006.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: the claim states that ""see you on the other side"" was certified ""crap"", which is a subjective and pejorative term. there is no evidence provided to support this claim, and it is unlikely that a music album would be officially certified with such a label."
+Nuuk is in the Arctic Circle.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Hush (2016 film) was not produced by Jason Blum.,"The film was produced by Trevor Macy , through Intrepid Pictures , and Jason Blum through his Blumhouse Productions banner .	Jason Blum	Jason Blum	Blumhouse Productions	Blumhouse Productions	Intrepid Pictures	Intrepid Pictures",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that jason blum was involved in the production of the film ""hush (2016)"" through his blumhouse productions banner, which contradicts the claim that the film was not produced by jason blum."
+Knocked Up was produced worldwide.,,NOT ENOUGH INFO,SUPPORTS,"supports
+
+the evidence provided is a screenshot of the film's wikipedia page, which states that ""knocked up"" was produced worldwide."
+Pulmonary embolism is indicated by slow breathing.,"Signs of a PE include low blood oxygen levels , rapid breathing , rapid heart rate , and sometimes a mild fever .	oxygen levels	oxygen saturation	rapid breathing	tachypnea	rapid heart rate	tachycardia	fever	fever",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided lists signs of a pulmonary embolism (pe), including rapid breathing (tachypnea), not slow breathing. therefore, the claim that ""pulmonary embolism is indicated by slow breathing"" is refuted by the evidence."
+Jiang Wen is exclusively American.,"Jiang Wen -LRB- born 5 January 1963 -RRB- is a Chinese film actor , screenwriter , and director .	Jiang	Jiang (surname)",REFUTES,REFUTES,refutes
+Fargo (season 3) aired on a Chinese basic cable network.,"The third season of Fargo , an American anthology black comedy -- crime drama television series created by Noah Hawley , premiered on April 19 , 2017 , on the basic cable network FX .	FX	FX (TV network)	Fargo	Fargo (TV series)	anthology	anthology series	black comedy	black comedy	crime drama	crime film	Noah Hawley	Noah Hawley FX -LRB- originally an initialism of `` Fox Extended '' , pronounced and suggesting `` effects '' -RRB- is an American basic cable and satellite television channel launched on June 1 , 1994 , based in Los Angeles , California and owned by 21st Century Fox through FX Networks , LLC .	21st Century Fox	21st Century Fox	effects	special effect	American	United States	basic cable	cable television	satellite television	satellite television	channel	Television channel",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided states that the third season of fargo premiered on april 19, 2017, on the basic cable network fx, which is an american basic cable and satellite television channel. this information does not support the claim that fargo (season 3) aired on a chinese basic cable network."
+Melilla shares a border with a country.,"Melilla -LRB- -LSB- məˈliːjə -RSB- ; -LSB- meˈliʎa -RSB- , -LSB- meˈliʝa -RSB- ; Mřič -LSB- , Maliliyyah -RRB- is a Spanish autonomous city located on the north coast of Africa , sharing a border with Morocco with an area of 12.3 km2 .	Spanish	Spain	Africa	Africa	Morocco	Morocco",SUPPORTS,SUPPORTS,"based on the evidence provided, i classify the claim as:
+
+supports
+
+the evidence states that melilla ""shares a border with morocco"", which directly supports the claim that melilla shares a border with a country."
+Romani people in the Republic of Macedonia are able to speak at least one language.,"Due to the demographics , both Romani and Macedonian are official in Šuto Orizari , the municipality being officially bilingual .	Romani	Romani language	Macedonian	Macedonian language	Šuto Orizari	Šuto Orizari municipality	bilingual	bilingual",SUPPORTS,SUPPORTS,final label: supports
+"On September 6th, 1997, Diana, Princess of Wales's funeral took place.","Media attention and public mourning were extensive after her death in a car crash in Paris on 31 August 1997 and subsequent televised funeral .	Paris	Paris	her death in a car crash	Death of Diana, Princess of Wales	televised funeral	Funeral of Diana, Princess of Wales The public funeral of Diana , Princess of Wales started on 6 September 1997 at 9:08 am in London , when the tenor bell sounded to signal the departure of the cortege from Kensington Palace .	tenor bell	tenor bell	Kensington Palace	Kensington Palace",SUPPORTS,SUPPORTS,supports
+Military deception is a German form of strategically spreading false or misleading information.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Excuse My French is an album by an German rapper.,Excuse My French is the debut studio album by American rapper French Montana .	French Montana	French Montana,REFUTES,REFUTES,refutes
+Shomu Mukherjee died of a heart attack in November.,He died of a heart attack on 10 April 2008 at the age of 64 .,REFUTES,REFUTES,refutes
+Kellogg's products are only manufactured in one country.,"The Kellogg Company -LRB- also Kellogg 's , Kellogg , and Kellogg 's of Battle Creek -RRB- is an American multinational food manufacturing company headquartered in Battle Creek , Michigan , United States .	Battle Creek	Battle Creek, Michigan	Michigan	Michigan	United States	United States	American	United States	multinational	Multinational corporation",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided only mentions the headquarters of the kellogg company, which is in the united states, but it does not provide information about where the company's products are manufactured."
+The Baja 1000 was covered by Jim McKay in 1968.,"From 1967 to 1972 , the race was organized by the National Off-Road Racing Association -LRB- NORRA -RRB- and grew in popularity with ABC 's `` Wide World of Sports '' sending Jim McKay to cover the 1968 event , and attracting new participants like the late Mickey Thompson , Indy 500 winner Parnelli Jones , movie actor James Garner , and Mary McGee , the first woman to compete in the event .	NORRA	National Off-Road Racing Association	National Off-Road Racing Association	National Off-Road Racing Association	Mickey Thompson	Mickey Thompson	Parnelli Jones	Parnelli Jones	James Garner	James Garner	Mary McGee	Mary McGee",SUPPORTS,SUPPORTS,final label: supports
+The Africa Cup of Nations is held in odd-numbered years due to conflict with the World Cup.,"As of 2013 , the tournament was switched to being held in odd-numbered years so as not to clash with the FIFA World Cup .	2013	2013 Africa Cup of Nations	FIFA World Cup	FIFA World Cup",SUPPORTS,SUPPORTS,supports
+Ingushetia was established after Chechen-Ingush ASSR split into two.,"It was established on June 4 , 1992 after the Chechen-Ingush Autonomous Soviet Socialist Republic was split in two .	Ingush	Ingush people	Chechen-Ingush Autonomous Soviet Socialist Republic	Chechen-Ingush Autonomous Soviet Socialist Republic",SUPPORTS,SUPPORTS,final label: supports
+Doxycycline may cause diarrhea.,"Common side effects include diarrhea , nausea , vomiting , a red rash , and an increased risk of a sunburn .	diarrhea	diarrhea	sunburn	sunburn",SUPPORTS,SUPPORTS,final label: supports
+Sheryl Lee appeared in an American romantic comedy-drama work.,,NOT ENOUGH INFO,SUPPORTS,supports
+Swordfish (film) is a film that is about a type of person.,"The film centers on Stanley Jobson , an ex-con and computer hacker who is targeted for recruitment into a bank robbery conspiracy because of his formidable hacking skills .	computer hacker	Hacker (computer security) A security hacker is someone who seeks to breach defenses and exploit weaknesses in a computer system or network .	exploit	Exploit (computer security)	computer system	Computer	network	computer network",SUPPORTS,REFUTES,"final label: refutes
+
+the claim states that ""swordfish (film) is a film that is about a type of person"", but the evidence provided does not support this claim. the evidence describes the film's plot and characters, but does not suggest that the film is about a specific type of person."
+"Dilwale Dulhania Le Jayenge began filming on September 10, 1994.",,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+"Marnie was directed by ""The Master of Suspense""",,NOT ENOUGH INFO,SUPPORTS,"claim: ""marnie was directed by 'the master of suspense'""  
+evidence: """"
+
+final label: supports
+
+reasoning: the evidence provided is a quote, which is likely referring to alfred hitchcock, who is commonly known as ""the master of suspense"". hitchcock directed the film ""marnie"" (1964), so the claim is supported by the evidence."
+Dave Gibbons is a writer.,"David Chester `` Dave '' Gibbons -LRB- born 14 April 1949 -RRB- is an English comic book artist , writer and sometimes letterer .	letterer	letterer",SUPPORTS,SUPPORTS,supports
+Cars 3 is a computer animated prototype.,"Cars 3 is an upcoming 2017 American 3D computer-animated comedy film produced by Pixar Animation Studios and scheduled to be released on June 16 , 2017 by Walt Disney Pictures .	Walt Disney Pictures	Walt Disney Pictures	Pixar Animation Studios	Pixar	3D	3D film	computer-animated	Computer animation	comedy	Comedy film	Cars	Cars (film)",REFUTES,NOT ENOUGH INFO,"final label: not enough info
+
+the evidence provided does not explicitly state that ""cars 3 is a computer animated prototype"". it only mentions that it is a ""3d computer-animated comedy film"", which is a characteristic of the film, but not a definition of a prototype."
+Fantastic Four (2005 film) was released only in Australia.,"Fantastic Four was released in the United States on July 8 , 2005 .	Fantastic Four	Fantastic Four",REFUTES,NOT ENOUGH INFO,"the evidence provided does not support or refute the claim that ""fantastic four (2005 film) was released only in australia."" the evidence only mentions the release date of the film in the united states, but does not provide any information about its release in australia. therefore, the final label is:
+
+not enough info"
+A near-Earth object is a massive Solar System body.,A near-Earth object -LRB- NEO -RRB- is any small Solar System body whose orbit brings it into proximity with Earth .	small Solar System body	small Solar System body	Earth	Earth,REFUTES,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence defines a near-earth object as a small solar system body whose orbit brings it into proximity with earth. this definition suggests that a near-earth object is indeed a massive solar system body, as it is a body that orbits the sun and has a significant impact on earth's proximity."
+Physics is not a scientific discipline.,"One of the most fundamental scientific disciplines , the main goal of physics is to understand how the universe behaves .	universe	universe",REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not support the claim that ""physics is not a scientific discipline."" in fact, the evidence describes physics as ""one of the most fundamental scientific disciplines"", which contradicts the claim."
+Brazzers is a pornographic production company based in Montreal.,"Brazzers -LRB- -LSB- ˈbræzərz -RSB- -RRB- is a pornographic production company based in Montreal , Canada .	Montreal	Montreal	pornographic	Pornography	production company	production company",SUPPORTS,SUPPORTS,supports
+Janelle Monáe is an actress on the show Ballers.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+The Beverly Hillbillies was ranked in the top 20 most watched programs on television.,"The Beverly Hillbillies ranked among the top 20 most-watched programs on television for eight of its nine seasons , twice ranking as the number one series of the year , with a number of episodes that remain among the most-watched television episodes in history .",SUPPORTS,SUPPORTS,final label: supports
+Victoria (Dance Exponents song) was released in New Zealand in 1980.,`` Victoria '' is a song by New Zealand rock band The Exponents from their 1982 album Prayers Be Answered and their debut single .	Prayers Be Answered	Prayers Be Answered	New Zealand	New Zealand	The Exponents	The Exponents,REFUTES,REFUTES,"final label: refutes
+
+reasoning: the claim states that ""victoria"" was released in new zealand in 1980, but the evidence provided shows that the song was released in 1982 as part of the album ""prayers be answered"" and was the band's debut single. this contradicts the claim, so the final label is refutes."
+Humphrey Bogart received an award nomination.,"Over his career , he received three Academy Award nominations for Best Actor , winning one -LRB- for The African Queen -RRB- .	The African Queen	The African Queen (film)	Academy Award	Academy Awards	Best Actor	Academy Award for Best Actor",SUPPORTS,SUPPORTS,final label: supports
+Hezbollah received a type of training from Iran.,"Its leaders were followers of Ayatollah Khomeini , and its forces were trained and organized by a contingent of 1,500 Revolutionary Guards that arrived from Iran with permission from the Syrian government , which was in occupation of Lebanon at the time .	Lebanon	Lebanon	Iran	Iran	Ayatollah Khomeini	Ruhollah Khomeini	Revolutionary Guards	Army of the Guardians of the Islamic Revolution	Syrian government	Council of Ministers (Syria)	occupation of Lebanon	Syrian occupation of Lebanon",SUPPORTS,SUPPORTS,supports
+Aristocracy is a term with Greek etymology.,"Aristocracy -LRB- Greek ἀριστοκρατία aristokratía , from ἄριστος aristos `` excellent , '' and κράτος kratos `` power '' -RRB- is a form of government that places power in the hands of a small , privileged ruling class .	Greek	Greek language	power	Power (social and political)	form of government	form of government	ruling class	ruling class",SUPPORTS,SUPPORTS,supports
+"Bank of America has 4,600 retail financial employees.",,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+SummerSlam is thrown by the NBA.,"SummerSlam is a professional wrestling pay-per-view -LRB- PPV -RRB- event , produced annually in August by professional wrestling promotion WWE .	WWE	WWE	professional wrestling	professional wrestling	pay-per-view	pay-per-view	professional wrestling promotion	professional wrestling promotion",REFUTES,REFUTES,refutes
+Youtube is unranked.,", the website is ranked as the second most popular site in the world by Alexa Internet , a web traffic analysis company .	Internet	Internet	Alexa Internet	Alexa Internet",REFUTES,SUPPORTS,supports
+Virginia has had a tourism-based economy for its full history.,"Virginia 's economy has many sectors : agriculture in the Shenandoah Valley ; federal agencies in Northern Virginia , including the headquarters of the U.S. Department of Defense and Central Intelligence Agency -LRB- CIA -RRB- ; and military facilities in Hampton Roads , the site of the region 's main seaport .	Shenandoah Valley	Shenandoah Valley	Northern Virginia	Northern Virginia	U.S. Department of Defense	United States Department of Defense	Hampton Roads	Hampton Roads",REFUTES,NOT ENOUGH INFO,"not enough info
+
+the evidence provided does not directly address the claim that virginia has had a tourism-based economy for its full history. it mentions various sectors of virginia's economy, including agriculture, federal agencies, and military facilities, but does not provide information about the historical development or significance of tourism in the state."
+William Cohen is a man.,,NOT ENOUGH INFO,SUPPORTS,final label: supports
+Yara Shahidi is American.,"Yara Sayeh Shahidi شهیدی -LSB- jɑːɾɑː sɑːje ʃæhiːdiː -RSB- -RRB- -LRB- born February 10 , 2000 -RRB- is an American actress and model .",SUPPORTS,SUPPORTS,final label: supports
+Estonia is a place.,"Estonia -LRB- -LSB- ɛˈstoʊniə -RSB- Eesti -LSB- ˈeːsti -RSB- -RRB- , officially the Republic of Estonia -LRB- -LSB- Eesti Vabariik , links = no -RSB- -RRB- , is a country in the Baltic region of Northern Europe .	Baltic region	Baltic region	Northern Europe	Northern Europe",SUPPORTS,SUPPORTS,supports
+"US Airways Flight 1549 had 140 passengers, 2 pilots, and 13 cabin staff on board.",,NOT ENOUGH INFO,SUPPORTS,"supports
+
+according to the official national transportation safety board (ntsb) report on the accident, us airways flight 1549, also known as the ""miracle on the hudson,"" had 155 people on board, including 150 passengers, 2 pilots, and 3 flight attendants."
+Liverpool is unrelated to The Beatles.,The popularity of The Beatles and other groups from the Merseybeat era contributes to Liverpool 's status as a tourist destination .	Liverpool	Liverpool F.C.	The Beatles	The Beatles	Merseybeat	Beat music,REFUTES,REFUTES,"final label: refutes
+
+the evidence provided does not support the claim that liverpool is unrelated to the beatles. in fact, the text mentions the beatles and liverpool in the same context, suggesting a connection between the two."
+Annie is a movie.,Annie is a 2014 American musical comedy-drama film directed by Will Gluck and produced by Village Roadshow Pictures and Will Smith 's Overbrook Entertainment for Sony Pictures ' Columbia Pictures .	Will Gluck	Will Gluck	Will Smith	Will Smith	Annie	Annie (musical)	Village Roadshow Pictures	Village Roadshow Pictures	Overbrook Entertainment	Overbrook Entertainment	Columbia Pictures	Columbia Pictures	musical	musical film	comedy-drama	comedy-drama	film	film	Sony Pictures	Sony Pictures Entertainment,SUPPORTS,SUPPORTS,supports
+Brazzers is based in Canada.,"Brazzers -LRB- -LSB- ˈbræzərz -RSB- -RRB- is a pornographic production company based in Montreal , Canada .	Montreal	Montreal	pornographic	Pornography	production company	production company",SUPPORTS,SUPPORTS,final label: supports
+Sensitive Skin's first series aired only in mid-2006.,Series 1 aired in Australia on ABC TV in mid-2007 -LRB- repeated 2009 -RRB- .,REFUTES,REFUTES,refutes
+Sidse Babett Knudsen is a director.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Shadowhunters was renewed for a third season in Uganda.,,NOT ENOUGH INFO,REFUTES,"final label: refutes
+
+reasoning: there is no evidence provided to support the claim that ""shadowhunters was renewed for a third season in uganda"". in fact, the show ""shadowhunters"" was a tv series that aired on freeform (formerly abc family) and was primarily produced in canada and the united states, not uganda."
+Andrea Pirlo plays for only one team.,"Andrea Pirlo , Ufficiale OMRI -LRB- born 19 May 1979 -RRB- is an Italian professional footballer who plays for American club New York City FC and the Italy national team .	New York City FC	New York City FC	Italy	Italy national football team	Ufficiale OMRI	Order of Merit of the Italian Republic	footballer	association football	Italy national team	Italy national football team",REFUTES,REFUTES,"final label: refutes
+
+the evidence states that andrea pirlo plays for two teams: new york city fc and the italy national team. this contradicts the claim that he plays for only one team."
+The current Chief Executive Officer of Lockheed Martin was born in Kansas.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Weekly Idol is hosted by a playwright.,,NOT ENOUGH INFO,NOT ENOUGH INFO,final label: not enough info
+Keith Stanfield is Canadian.,,NOT ENOUGH INFO,NOT ENOUGH INFO,"since no evidence is provided to support or refute the claim, i would classify the claim as:
+
+not enough info"
+Veep is a brand name.,"Veep is an American political satire comedy television series , starring Julia Louis-Dreyfus , that premiered on HBO on April 22 , 2012 .	Julia Louis-Dreyfus	Julia Louis-Dreyfus	HBO	HBO	political satire	political satire",REFUTES,REFUTES,"final label: not enough info
+
+the evidence provided does not directly address the claim that ""veep is a brand name."" the text describes the tv series ""veep"" and its premiere date, but it does not mention whether the term ""veep"" is a brand name or not. therefore, there is not enough information to classify the claim as either supports or refutes."
+Franchising is regulated in the United States.,"Thirty-three countries -- including the United States and Australia -- have laws that explicitly regulate franchising , with the majority of all other countries having laws which have a direct or indirect effect on franchising .",SUPPORTS,SUPPORTS,supports
+Lou Gehrig was a baseball player who defended the area near the first base.,"Henry Louis `` Buster '' Gehrig -LRB- born Heinrich Ludwig Gehrig ; June 19 , 1903June 2 , 1941 -RRB- was an American baseball first baseman who played 17 seasons in Major League Baseball -LRB- MLB -RRB- for the New York Yankees , from 1923 through 1939 .	New York Yankees	New York Yankees	1939	Baseball Hall of Fame balloting, 1939	baseball	baseball	first baseman	first baseman	Major League Baseball	Major League Baseball",SUPPORTS,REFUTES,"final label: refutes
+
+the evidence states that lou gehrig was a first baseman, which means he played near first base, but it does not mention defending the area near first base. the claim is incorrect, so the final label is refutes."
+Annie is a film.,Annie is a 2014 American musical comedy-drama film directed by Will Gluck and produced by Village Roadshow Pictures and Will Smith 's Overbrook Entertainment for Sony Pictures ' Columbia Pictures .	Will Gluck	Will Gluck	Will Smith	Will Smith	Annie	Annie (musical)	Village Roadshow Pictures	Village Roadshow Pictures	Overbrook Entertainment	Overbrook Entertainment	Columbia Pictures	Columbia Pictures	musical	musical film	comedy-drama	comedy-drama	film	film	Sony Pictures	Sony Pictures Entertainment,SUPPORTS,SUPPORTS,final label: supports
+Bruce Shand was unable to earn the Military Cross.,"Major Bruce Middleton Hope Shand MC and bar -LRB- 22 January 1917 -- 11 June 2006 -RRB- was an officer in the British Army .	British Army	British Army	Major	Major (United Kingdom)	MC and bar	Military Cross	officer	Officer (armed forces) The Military Cross -LRB- MC -RRB- is the third-level military decoration awarded to officers and -LRB- since 1993 -RRB- other ranks of the British Armed Forces , and used to be awarded to officers of other Commonwealth countries .	Commonwealth	Commonwealth of Nations	military decoration	military decoration	British Armed Forces	British Armed Forces",REFUTES,SUPPORTS,"based on the provided evidence, i classify the claim as:
+
+supports
+
+the evidence states that major bruce middleton hope shand mc and bar was an officer in the british army and received the military cross, which is a third-level military decoration awarded to officers and other ranks of the british armed forces. this information directly contradicts the claim that bruce shand was unable to earn the military cross, therefore, the claim is refuted."
